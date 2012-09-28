@@ -76,7 +76,7 @@ pull requests welcome!
 
 ######Templates
 
-* [  ] [handlerbars](http://)
+* [  ] [handlebars](http://)
 * [  ] [pure](http://)
 * [  ] [dust](http://)
 * [  ] [underscore-templates](http://)
@@ -133,6 +133,7 @@ pull requests welcome!
 ######CSS Quality Validators
 
 * [  ] [csslint](http://)
+* [  ] [recess](http://twitter.github.com/recess)
 
 ######JS Optimizer/Minification/Compression Tools
 
@@ -154,9 +155,11 @@ pull requests welcome!
 
 ######Languages Compiling to CSS
 
-* [  ] [SASS](http://)
-* [  ] [stylus](http://)
-* [  ] [less](http://)
+* [  ] [SASS](http://sass-lang.com/)
+	* [  ] [compass](http://compass-style.org)
+* [  ] [stylus](http://learnboost.github.com/stylus/)
+	* [  ] [nib](http://visionmedia.github.com/nib/)
+* [  ] [less](http://lesscss.org)
 
 ######Languages Compiling to JS
 

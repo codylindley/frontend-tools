@@ -1,18 +1,15 @@
-#frontend-tools
+#Landscaping (i.e. build stuff) With Frontend Tools
 
-
-**Landscaping With Frontend Tools**
-
-###frontend tooling for desktop/laptop developoment
+###Frontend tools for desktop/laptop developoment
 
 ######Workflow/Builds/Assembers
 
-* yeoman
-* lumbar
-* brunch
-* grunt
-* codeKit
-* liveReload
-* stealJS
+* [  ] yeoman
+* [  ] lumbar
+* [  ] brunch
+* [  ] grunt
+* [  ] codeKit
+* [  ] liveReload
+* [  ] stealJS
 
 

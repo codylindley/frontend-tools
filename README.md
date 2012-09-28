@@ -98,7 +98,6 @@
 * [  ] [foundation](http://)
 * [  ] [wijmo](http://)
 * [  ] [YUI3](http://)
-* [  ] [domjs](http://)
 
 ######Testing Frameworks
 
@@ -161,8 +160,8 @@
 
 * [  ] [backbone](http://)
 	* [  ] [thorax](http://)
-	* [  ] [thorax](http://)
-	* [  ] [thorax](http://)
+	* [  ] [vertebrae](http://)
+	* [  ] [chaplin](http://)
 * [  ] [ember](http://)
 * [  ] [knockout](http://)
 * [  ] [batman.js](http://)

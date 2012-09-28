@@ -1,8 +1,8 @@
 #Landscaping (i.e. build stuff) With Frontend Tools
 
-####An opininated list of frontend tools for desktop/laptop (i.e. does not include tablet or phone yet) developoment
+####An opinionated list of frontend tools for desktop/laptop (i.e. does not include tablet or phone yet) development 
 
-######Workflow/Builds/Assembers
+######Workflow/Builds/Assemblers
 
 * [  ] [yeoman](http://)
 * [  ] [lumbar](http://)
@@ -142,13 +142,13 @@
 * [  ] [JS test driver](http://)
 
 
-######Compliling to CSS
+######Compiling to CSS
 
 * [  ] [SASS](http://)
 * [  ] [stylus/testling](http://)
 * [  ] [less](http://)
 
-######Compliling to JS
+######Compiling to JS
 
 * [  ] [coffeeScript](http://)
 * [  ] [dart](http://)

@@ -183,7 +183,7 @@
 
 ######Frontend Kitchen Sink Solutions (tools below provide a mixture of the things above)
 
-* [  ] [YUI#](http://)
+* [  ] [YUI3](http://)
 * [  ] [dojo](http://)
 * [  ] [extJS](http://)
 * [  ] [qooxdoo](http://)

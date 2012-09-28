@@ -52,7 +52,7 @@ pull requests welcome!
 
 ######JS Helpers
 
-* [  ] [lo-dash](lo-dash)
+* [  ] [lo-dash](http://lodash.com/)
 * [  ] [string.js](http://)
 * [  ] [underscore](http://)
 	* [  ] [underscore.string](http://)

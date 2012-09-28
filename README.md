@@ -100,18 +100,18 @@ pull requests welcome!
 
 ######Testing Frameworks
 
-* [  ] [mocha](http://)
-* [  ] [buster.js](http://)
-* [  ] [casperJS](http://)
+* [  ] [mocha](http://visionmedia.github.com/mocha/)
+* [  ] [buster.js](http://busterjs.org/)
+* [  ] [casperJS](http://casperjs.org/)
 
 ######Tests
 
-* [  ] [qunit](http://)
-* [  ] [jasmine](http://)
+* [  ] [qunit](http://qunitjs.com/)
+* [  ] [jasmine](http://pivotal.github.com/jasmine/)
 
 ######JS Auto Documentation Tools
 
-* [  ] [yuiDoc](http://)
+* [  ] [yuiDoc](http://yui.github.com/yuidoc/)
 * [  ] [docco](http://jashkenas.github.com/docco/)
 	* [  ] [docco-husky](https://github.com/mbrevoort/docco-husky)
 * [  ] [jsduck](https://github.com/senchalabs/jsduck)

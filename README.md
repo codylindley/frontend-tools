@@ -155,7 +155,7 @@ pull requests welcome!
 ######Languages Compiling to CSS
 
 * [  ] [SASS](http://)
-* [  ] [stylus/testling](http://)
+* [  ] [stylus](http://)
 * [  ] [less](http://)
 
 ######Languages Compiling to JS

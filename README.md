@@ -1,6 +1,6 @@
 #Landscaping (i.e. build stuff) With Frontend Tools
 
-####An opinionated list of frontend tools for desktop/laptop (i.e. does not include tablet or phone yet) development 
+####An opinionated list of frontend tools for desktop/laptop (i.e. does not include tablet or phone yet) development
 
 ######Workflow/Builds/Assemblers
 
@@ -67,10 +67,10 @@
 ######Module Loaders
 
 * [  ] [require.js](http://)
+	* [  ] [almond](http://)
 * [  ] [cajon](http://)
 * [  ] [browserify](http://)
 * [  ] [curl](http://)
-* [  ] [almond](http://)
 
 ######Templates
 
@@ -113,6 +113,15 @@
 ######Auto Documentation Tools
 
 * [  ] [yuiDoc](http://)
+* [  ] [docco](http://jashkenas.github.com/docco/)
+	* [  ] [docco-husky](https://github.com/mbrevoort/docco-husky)
+* [  ] [jsduck](https://github.com/senchalabs/jsduck)
+* [  ] [jsdoc](http://code.google.com/p/jsdoc-toolkit/)
+
+######CSS Auto Documentation
+
+* [  ] [kss](https://github.com/kneath/kss)
+* [  ] [styledocco/](http://jacobrask.github.com/styledocco/)
 
 ######JS Quality Validators
 
@@ -192,7 +201,7 @@
 * [  ] [google closure](http://)
 
 
- 
+
 
 
 

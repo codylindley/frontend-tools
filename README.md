@@ -53,52 +53,50 @@ pull requests welcome!
 ######JS Helpers
 
 * [  ] [lo-dash](http://lodash.com/)
-* [  ] [string.js](http://)
-* [  ] [underscore](http://)
-	* [  ] [underscore.string](http://)
-* [  ] [sugar.js](http://)
-* [  ] [valentine](http://)
-* [  ] [modernizr](http://)
-* [  ] [yepnope](http://)
+* [  ] [string.js](http://stringjs.com/)
+* [  ] [underscore](http://underscorejs.org/)
+	* [  ] [underscore.string](http://epeli.github.com/underscore.string/)
+* [  ] [sugar.js](http://sugarjs.com/)
+* [  ] [valentine](https://github.com/ded/valentine)
+* [  ] [modernizr](http://modernizr.com/)
+	* [  ] [yepnope]http://yepnopejs.com/)
 
 ######CSS Helpers
 
-* [  ] [-prefix-free](http://)
+* [  ] [-prefix-free](http://leaverou.github.com/prefixfree/)
 
 ######Module Loaders
 
-* [  ] [require.js](http://)
-	* [  ] [almond](http://)
-* [  ] [cajon](http://)
-* [  ] [browserify](http://)
-* [  ] [curl](http://)
+* [  ] [require.js](http://requirejs.org/)
+	* [  ] [almond](https://github.com/jrburke/almond)
+* [  ] [cajon](https://github.com/requirejs/cajon)
+* [  ] [browserify](https://github.com/substack/node-browserify)
+* [  ] [curl](https://github.com/cujojs/curl)
 
 ######Templates
 
-* [  ] [handlebars](http://)
-* [  ] [pure](http://)
-* [  ] [dust](http://)
-* [  ] [underscore-templates](http://)
-* [  ] [transparency](http://)
-* [  ] [plates](http://)
-* [  ] [mustache](http://)
-* [  ] [icanhaz](http://)
-* [  ] [hogan.js](http://)
-* [  ] [doT.js](http://)
-* [  ] [domjs](http://)
+* [  ] [handlebars](http://handlebarsjs.com/)
+* [  ] [pure](http://beebole.com/pure/)
+* [  ] [dust](http://akdubya.github.com/dustjs/)
+* [  ] [transparency](http://leonidas.github.com/transparency/)
+* [  ] [plates](https://github.com/flatiron/plates)
+* [  ] [mustache](http://mustache.github.com/)
+* [  ] [icanhaz](http://icanhazjs.com/)
+* [  ] [hogan.js](http://twitter.github.com/hogan.js/)
+* [  ] [doT.js](http://olado.github.com/doT/)
 
 ######UI Widgets
 
-* [  ] [chico-ui](http://)
-* [  ] [google closure](http://)
-* [  ] [DHTMLX](http://)
-* [  ] [extJS](http://)
-* [  ] [kendoUI](http://)
-* [  ] [qooxdoo](http://)
-* [  ] [boostrap](http://)
-* [  ] [foundation](http://)
-* [  ] [wijmo](http://)
-* [  ] [YUI3](http://)
+* [  ] [chico-ui](http://chico-ui.com.ar/)
+* [  ] [google closure](http://closure-library.googlecode.com/svn/trunk/closure/goog/demos/index.html)
+* [  ] [DHTMLX](http://dhtmlx.com/)
+* [  ] [extJS](http://www.sencha.com/products/extjs/examples/)
+* [  ] [kendoUI](http://www.kendoui.com/)
+* [  ] [qooxdoo](http://qooxdoo.org/)
+* [  ] [boostrap components & javascript](http://twitter.github.com/bootstrap/javascript.html)
+* [  ] [wijmo](http://wijmo.com/)
+* [  ] [YUI3 Widgets](http://yuilibrary.com/yui/docs/guides/)
+* [  ] [dojo dijits](http://dojotoolkit.org/reference-guide/1.8/dojox/index.html)
 
 ######Testing Frameworks
 

@@ -6,54 +6,53 @@ pull requests welcome!
 
 ######Workflow/Builds/Assemblers
 
-* [  ] [yeoman](http://)
-* [  ] [lumbar](http://)
-* [  ] [brunch](http://)
-* [  ] [grunt](http://)
-* [  ] [codeKit](http://)
-* [  ] [liveReload](http://)
-* [  ] [stealJS](http://)
-* [  ] [anvil.js](http://)
+* [  ] [yeoman](http://yeoman.io/)
+* [  ] [lumbar](http://walmartlabs.github.com/lumbar/)
+* [  ] [brunch](http://brunch.io/)
+* [  ] [grunt](https://github.com/cowboy/grunt)
+* [  ] [codeKit](http://incident57.com/codekit/)
+* [  ] [liveReload](http://livereload.com/)
+* [  ] [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
+* [  ] [anvil.js](http://appendto.github.com/anvil.js/)
 
 ######Browser Package Managers
 
-* [  ] [bower](http://)
-* [  ] [ender](http://)
-* [  ] [jam](http://)
-* [  ] [volo](http://)
-* [  ] [component](http://)
+* [  ] [bower](http://twitter.github.com/bower/)
+* [  ] [ender](http://ender.no.de/)
+* [  ] [jam](http://jamjs.org/)
+* [  ] [volo](http://volojs.org/)
 
 
 ######CSS Base
 
-* [  ] [normalize.css](http://)
+* [  ] [normalize.css](http://necolas.github.com/normalize.css/)
 
 ######CSS Frameworks
 
-* [  ] [foundation](http://)
-* [  ] [bootstrap](http://)
-* [  ] [kube](http://)
-* [  ] [skeleton](http://)
+* [  ] [foundation](http://foundation.zurb.com/)
+* [  ] [bootstrap](http://twitter.github.com/bootstrap/)
+* [  ] [kube](http://kubeframework.com/)
+* [  ] [skeleton](http://www.getskeleton.com/)
 
 ######HTML Base
 
-* [  ] [HTML5 Boilerplate](http://)
+* [  ] [HTML5 Boilerplate](http://html5boilerplate.com/)
 
 ######DOM Scripting
 
-* [  ] [jQuery](http://)
-	*  [  ] [jQuery++](http://)
-* [  ] [zepto](http://)
-* [  ] [mooTools](http://)
-* [  ] [Enders The Jeesh](http://)
- 	* [  ] [domReady](http://)
- 	* [  ] [query](http://)
-	* [  ] [bonzo](http://)
-	* [  ] [bean](http://)
+* [  ] [jQuery](http://jquery.com/)
+	*  [  ] [jQuery++](http://jquerypp.com/)
+* [  ] [zepto](http://zeptojs.com/)
+* [  ] [mooTools](http://mootools.net/)
+* [  ] [Enders The Jeesh](https://github.com/ender-js/jeesh)
+ 	* [  ] [domReady](https://github.com/ded/domready)
+ 	* [  ] [query](https://github.com/ded/qwery)
+	* [  ] [bonzo](https://github.com/ded/bonzo)
+	* [  ] [bean](https://github.com/fat/bean)
 
 ######JS Helpers
 
-* [  ] [lo-dash](http://)
+* [  ] [lo-dash](lo-dash)
 * [  ] [string.js](http://)
 * [  ] [underscore](http://)
 	* [  ] [underscore.string](http://)

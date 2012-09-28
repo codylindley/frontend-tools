@@ -1,6 +1,6 @@
 #Landscaping (i.e. build stuff) With Frontend Tools
 
-####An opinionated list of frontend tools for desktop/laptop (i.e. does not include tablet or phone yet) development 
+####An opinionated list of frontend tools for desktop/laptop (i.e. does not include tablet or phone yet) development
 
 ######Workflow/Builds/Assemblers
 
@@ -67,10 +67,10 @@
 ######Module Loader
 
 * [  ] [require.js](http://)
+	* [  ] [almond](http://)
 * [  ] [cajon](http://)
 * [  ] [browserify](http://)
 * [  ] [curl](http://)
-* [  ] [almond](http://)
 
 ######Templates
 
@@ -191,7 +191,7 @@
 * [  ] [google closure](http://)
 
 
- 
+
 
 
 

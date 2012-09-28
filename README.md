@@ -1,6 +1,6 @@
 #Landscaping (i.e. build stuff) With Frontend Tools
 
-###Frontend tools for desktop/laptop developoment
+####An opininated list of frontend tools for desktop/laptop (i.e. does not include tablet or phone yet) developoment
 
 ######Workflow/Builds/Assembers
 

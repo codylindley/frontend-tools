@@ -110,7 +110,7 @@
 * [  ] [qunit](http://)
 * [  ] [jasmine](http://)
 
-######Auto Documentation Tools
+######JS Auto Documentation Tools
 
 * [  ] [yuiDoc](http://)
 * [  ] [docco](http://jashkenas.github.com/docco/)
@@ -118,7 +118,7 @@
 * [  ] [jsduck](https://github.com/senchalabs/jsduck)
 * [  ] [jsdoc](http://code.google.com/p/jsdoc-toolkit/)
 
-######CSS Auto Documentation
+######CSS Auto Documentation Tools
 
 * [  ] [kss](https://github.com/kneath/kss)
 * [  ] [styledocco/](http://jacobrask.github.com/styledocco/)

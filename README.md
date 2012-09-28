@@ -2,6 +2,8 @@
 
 ####An opinionated list of frontend tools for desktop/laptop (i.e. does not include tablet or phone yet) development
 
+pull requests welcome!
+
 ######Workflow/Builds/Assemblers
 
 * [  ] [yeoman](http://)

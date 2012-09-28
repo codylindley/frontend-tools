@@ -142,22 +142,22 @@
 * [  ] [JS test driver](http://)
 
 
-#######Compliling to CSS
+######Compliling to CSS
 
 * [  ] [SASS](http://)
 * [  ] [stylus/testling](http://)
 * [  ] [less](http://)
 
-#######Compliling to JS
+######Compliling to JS
 
 * [  ] [coffeeScript](http://)
 * [  ] [dart](http://)
 
-#######Compliling to HTML
+######Compliling to HTML
 
 * [  ] [jade](http://)
 
-#######Front End Application Frameworks (backend agnostic)
+######Front End Application Frameworks (backend agnostic)
 
 * [  ] [backbone](http://)
 	* [  ] [thorax](http://)
@@ -169,20 +169,20 @@
 * [  ] [canjs](http://)
 * [  ] [spine](http://)
 
-#######Front End Application Frameworks (with backend opinions)
+######Front End Application Frameworks (with backend opinions)
 
 * [  ] [derby](http://)
 * [  ] [flatiron](http://)
 * [  ] [angularJS](http://)
 * [  ] [jsMVC](http://)
 
-#######Full Stack Application Frameworks
+######Full Stack Application Frameworks
 
 * [  ] [tower.js](http://)
 * [  ] [wakanda](http://)
 * [  ] [meteor](http://)
 
-#######Frontend Kitchen Sink Solutions (tools below provide a mixture of the things above)
+######Frontend Kitchen Sink Solutions (tools below provide a mixture of the things above)
 
 * [  ] [YUI#](http://)
 * [  ] [dojo](http://)

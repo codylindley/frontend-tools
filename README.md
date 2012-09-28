@@ -113,6 +113,15 @@
 ######Auto Documentation
 
 * [  ] [yuiDoc](http://)
+* [  ] [docco](http://jashkenas.github.com/docco/)
+	* [  ] [docco-husky](https://github.com/mbrevoort/docco-husky)
+* [  ] [jsduck](https://github.com/senchalabs/jsduck)
+* [  ] [jsdoc](http://code.google.com/p/jsdoc-toolkit/)
+
+######CSS Auto Documentation
+
+* [  ] [kss](https://github.com/kneath/kss)
+* [  ] [styledocco/](http://jacobrask.github.com/styledocco/)
 
 ######JS Quality Validator
 

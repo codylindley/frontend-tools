@@ -149,12 +149,12 @@
 
 ######Compiling to JS
 
-* [  ] [coffeeScript](http://)
-* [  ] [dart](http://)
+* [  ] [coffeeScript](http://coffeescript.org/)
+* [  ] [dart](http://www.dartlang.org/)
 
 ######Compliling to HTML
 
-* [  ] [jade](http://)
+* [  ] [jade](http://jade-lang.com/)
 
 ######Front End Application Frameworks (backend agnostic)
 
@@ -164,22 +164,22 @@
 	* [  ] [chaplin](http://)
 * [  ] [ember](http://)
 * [  ] [knockout](http://)
-* [  ] [batman.js](http://)
 * [  ] [canjs](http://)
 * [  ] [spine](http://)
+* [  ] [angularJS](http://)
 
 ######Front End Application Frameworks (with backend opinions)
 
-* [  ] [derby](http://)
-* [  ] [flatiron](http://)
-* [  ] [angularJS](http://)
-* [  ] [jsMVC](http://)
+* [  ] [derby](http://derbyjs.com/) (requires NodeJS)
+* [  ] [flatiron](http://flatironjs.org/) (requires NodeJS)
+* [  ] [batman.js](http://) (requires NodeJS)
+* [  ] [jsMVC](http://javascriptmvc.com/) (requires Java)
 
 ######Full Stack Application Frameworks
 
-* [  ] [tower.js](http://)
-* [  ] [wakanda](http://)
-* [  ] [meteor](http://)
+* [  ] [tower.js](http://towerjs.org/) (requires NodeJS)
+* [  ] [wakanda](http://www.wakanda.org/)
+* [  ] [meteor](http://http://www.meteor.com/)
 
 ######Frontend Kitchen Sink Solutions (tools below provide a mixture of the things above)
 

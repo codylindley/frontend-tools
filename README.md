@@ -159,8 +159,10 @@
 ######Front End Application Frameworks (backend agnostic)
 
 * [  ] [backbone](http://)
-	* [  ] [thorax](http://)
-	* [  ] [chaplin](http://)
+	* [  ] [marionette](http://marionettejs.com)
+	* [  ] [chaplin](http://chaplinjs.github.com/)
+	* [  ] [aura](http://addyosmani.github.com/aura/)
+	* [  ] [thorax](http://walmartlabs.github.com/thorax/)
 * [  ] [ember](http://)
 * [  ] [knockout](http://)
 * [  ] [canjs](http://)

@@ -13,7 +13,7 @@
 * [  ] [stealJS](http://)
 * [  ] [anvil.js](http://)
 
-######Browser Package Manager
+######Browser Package Managers
 
 * [  ] [bower](http://)
 * [  ] [ender](http://)
@@ -37,7 +37,7 @@
 
 * [  ] [HTML5 Boilerplate](http://)
 
-######DOM
+######DOM Scripting
 
 * [  ] [jQuery](http://)
 	*  [  ] [jQuery++](http://)
@@ -64,7 +64,7 @@
 
 * [  ] [-prefix-free](http://)
 
-######Module Loader
+######Module Loaders
 
 * [  ] [require.js](http://)
 * [  ] [cajon](http://)
@@ -110,26 +110,26 @@
 * [  ] [qunit](http://)
 * [  ] [jasmine](http://)
 
-######Auto Documentation
+######Auto Documentation Tools
 
 * [  ] [yuiDoc](http://)
 
-######JS Quality Validator
+######JS Quality Validators
 
 * [  ] [jslint](http://)
 * [  ] [jshint](http://)
 
-######CSS Quality Validator
+######CSS Quality Validators
 
 * [  ] [csslint](http://)
 
-######JS Optimizers/Minification/Compression
+######JS Optimizer/Minification/Compression Tools
 
 * [  ] [google closure compiler](http://)
 * [  ] [uglifyJS](http://)
 * [  ] [YUI Compressor](http://)
 
-######CSS Optimizers/Minification/Compression
+######CSS Optimizer/Minification/Compression Tools
 
 * [  ] [YUI Compressor](http://)
 
@@ -141,18 +141,18 @@
 * [  ] [JS test driver](http://)
 
 
-######Compiling to CSS
+######Languages Compiling to CSS
 
 * [  ] [SASS](http://)
 * [  ] [stylus/testling](http://)
 * [  ] [less](http://)
 
-######Compiling to JS
+######Languages Compiling to JS
 
 * [  ] [coffeeScript](http://coffeescript.org/)
 * [  ] [dart](http://www.dartlang.org/)
 
-######Compliling to HTML
+######Languages Compliling to HTML
 
 * [  ] [jade](http://jade-lang.com/)
 
@@ -160,7 +160,6 @@
 
 * [  ] [backbone](http://)
 	* [  ] [thorax](http://)
-	* [  ] [vertebrae](http://)
 	* [  ] [chaplin](http://)
 * [  ] [ember](http://)
 * [  ] [knockout](http://)

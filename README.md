@@ -109,7 +109,6 @@ pull requests welcome!
 
 * [  ] [qunit](http://qunitjs.com/)
 * [  ] [jasmine](http://pivotal.github.com/jasmine/)
-* [  ] [YUI Test](http://yuilibrary.com/yui/docs/test/)
 
 ######JS Auto Documentation Tools
 
@@ -197,7 +196,7 @@ pull requests welcome!
 * [  ] [wakanda](http://www.wakanda.org/)
 * [  ] [meteor](http://http://www.meteor.com/)
 
-######Frontend Kitchen Sink Solutions (tools below provide a mixture of the things above)
+######Frontend (with backend opinions) Kitchen Sink Solutions (tools below provide a mixture of the things above)
 
 * [  ] [YUI3](http://yuilibrary.com/projects/yui3/)
 * [  ] [dojo](http://dojotoolkit.org/extjs)

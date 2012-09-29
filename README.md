@@ -59,7 +59,7 @@ pull requests welcome!
 * [  ] [sugar.js](http://sugarjs.com/)
 * [  ] [valentine](https://github.com/ded/valentine)
 * [  ] [modernizr](http://modernizr.com/)
-	* [  ] [yepnope]http://yepnopejs.com/)
+	* [  ] [yepnope](http://yepnopejs.com/)
 
 ######CSS Helpers
 

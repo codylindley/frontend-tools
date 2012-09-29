@@ -108,6 +108,7 @@ pull requests welcome!
 
 * [  ] [qunit](http://qunitjs.com/)
 * [  ] [jasmine](http://pivotal.github.com/jasmine/)
+* [  ] [YUI Test](http://yuilibrary.com/yui/docs/test/)
 
 ######JS Auto Documentation Tools
 

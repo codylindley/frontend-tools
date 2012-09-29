@@ -124,18 +124,18 @@ pull requests welcome!
 
 ######JS Quality Validators
 
-* [  ] [jslint](http://)
-* [  ] [jshint](http://)
+* [  ] [jslint](http://www.jslint.com/)
+* [  ] [jshint](http://www.jshint.com/)
 
 ######CSS Quality Validators
 
-* [  ] [csslint](http://)
+* [  ] [csslint](http://csslint.net/)
 * [  ] [recess](http://twitter.github.com/recess)
 
 ######JS Optimizer/Minification/Compression Tools
 
-* [  ] [google closure compiler](http://)
-* [  ] [uglifyJS](http://)
+* [  ] [google closure compiler](https://developers.google.com/closure/compiler/)
+* [  ] [uglifyJS](https://github.com/mishoo/UglifyJS)
 * [  ] [YUI Compressor](http://)
 
 ######CSS Optimizer/Minification/Compression Tools
@@ -144,8 +144,8 @@ pull requests welcome!
 
 ######Remote DOM and JS Testing
 
-* [  ] [browserstack](http://)
-* [  ] [browserling/testling](http://)
+* [  ] [browserstack](http://www.browserstack.com/)
+* [  ] [browserling/testling](https://browserling.com/)
 * [  ] [selenium](http://)
 * [  ] [JS test driver](http://)
 
@@ -174,17 +174,17 @@ pull requests welcome!
 	* [  ] [chaplin](http://chaplinjs.github.com/)
 	* [  ] [aura](http://addyosmani.github.com/aura/)
 	* [  ] [thorax](http://walmartlabs.github.com/thorax/)
-* [  ] [ember](http://)
-* [  ] [knockout](http://)
-* [  ] [canjs](http://)
-* [  ] [spine](http://)
-* [  ] [angularJS](http://)
+* [  ] [ember](http://emberjs.com/)
+* [  ] [knockout](http://knockoutjs.com/)
+* [  ] [canjs](http://canjs.us/)
+* [  ] [spine](http://spinejs.com/)
+* [  ] [angularJS](http://angularjs.org/)
 
 ######Front End Application Frameworks (with backend opinions)
 
 * [  ] [derby](http://derbyjs.com/) (requires NodeJS)
 * [  ] [flatiron](http://flatironjs.org/) (requires NodeJS)
-* [  ] [batman.js](http://) (requires NodeJS)
+* [  ] [batman.js](http://batmanjs.org/) (requires NodeJS)
 * [  ] [jsMVC](http://javascriptmvc.com/) (requires Java)
 
 ######Full Stack Application Frameworks

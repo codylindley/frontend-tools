@@ -198,7 +198,7 @@ pull requests welcome!
 ######Frontend Kitchen Sink Solutions (tools below provide a mixture of the things above)
 
 * [  ] [YUI3](http://yuilibrary.com/projects/yui3/)
-* [  ] [dojo](http://dojotoolkit.org/extjs
+* [  ] [dojo](http://dojotoolkit.org/extjs)
 * [  ] [extJS](http://www.sencha.com/products/extjs/)
 * [  ] [qooxdoo](http://qooxdoo.org/)
 * [  ] [google closure](https://developers.google.com/closure/)

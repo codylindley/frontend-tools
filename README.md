@@ -162,6 +162,8 @@ pull requests welcome!
 
 * [  ] [coffeeScript](http://coffeescript.org/)
 * [  ] [dart](http://www.dartlang.org/)
+* [  ] [roy](https://github.com/pufuwozu/roy)
+* [  ] [ClojureScript](https://github.com/clojure/clojurescript)
 
 ######Languages Compliling to HTML
 

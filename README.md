@@ -97,6 +97,7 @@ pull requests welcome!
 * [  ] [wijmo](http://wijmo.com/)
 * [  ] [YUI3 Widgets](http://yuilibrary.com/yui/docs/guides/)
 * [  ] [dojo dijits](http://dojotoolkit.org/reference-guide/1.8/dojox/index.html)
+* [  ] [jQuery UI](http://jqueryui.com/)
 
 ######Testing Frameworks
 

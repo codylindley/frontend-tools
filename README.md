@@ -146,8 +146,8 @@ pull requests welcome!
 
 * [  ] [browserstack](http://www.browserstack.com/)
 * [  ] [browserling/testling](https://browserling.com/)
-* [  ] [selenium](http://)
-* [  ] [JS test driver](http://)
+* [  ] [selenium](http://seleniumhq.org/)
+* [  ] [JS test driver](http://code.google.com/p/js-test-driver/)
 
 
 ######Languages Compiling to CSS
@@ -171,7 +171,7 @@ pull requests welcome!
 
 ######Front End Application Frameworks (backend agnostic)
 
-* [  ] [backbone](http://)
+* [  ] [backbone](http://backbonejs.org/)
 	* [  ] [marionette](http://marionettejs.com)
 	* [  ] [chaplin](http://chaplinjs.github.com/)
 	* [  ] [aura](http://addyosmani.github.com/aura/)
@@ -197,12 +197,11 @@ pull requests welcome!
 
 ######Frontend Kitchen Sink Solutions (tools below provide a mixture of the things above)
 
-* [  ] [YUI3](http://)
-* [  ] [dojo](http://)
-* [  ] [extJS](http://)
-* [  ] [qooxdoo](http://)
-* [  ] [DHMLX](http://)
-* [  ] [google closure](http://)
+* [  ] [YUI3](http://yuilibrary.com/projects/yui3/)
+* [  ] [dojo](http://dojotoolkit.org/extjs
+* [  ] [extJS](http://www.sencha.com/products/extjs/)
+* [  ] [qooxdoo](http://qooxdoo.org/)
+* [  ] [google closure](https://developers.google.com/closure/)
 
 
 

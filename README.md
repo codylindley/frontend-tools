@@ -18,6 +18,7 @@ pull requests welcome!
 ######Browser Package Managers
 
 * [  ] [bower](http://twitter.github.com/bower/)
+* [  ] [component](https://github.com/component/component)
 * [  ] [ender](http://ender.no.de/)
 * [  ] [jam](http://jamjs.org/)
 * [  ] [volo](http://volojs.org/)

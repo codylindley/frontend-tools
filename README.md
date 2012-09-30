@@ -21,6 +21,7 @@ pull requests welcome!
 * [  ] [ender](http://ender.no.de/)
 * [  ] [jam](http://jamjs.org/)
 * [  ] [volo](http://volojs.org/)
+* [  ] [component](https://github.com/component/component)
 
 
 ######CSS Base
@@ -84,6 +85,7 @@ pull requests welcome!
 * [  ] [icanhaz](http://icanhazjs.com/)
 * [  ] [hogan.js](http://twitter.github.com/hogan.js/)
 * [  ] [doT.js](http://olado.github.com/doT/)
+* [  ] [underscore](http://underscorejs.org/#template)
 
 ######UI Widgets
 
@@ -109,6 +111,7 @@ pull requests welcome!
 
 * [  ] [qunit](http://qunitjs.com/)
 * [  ] [jasmine](http://pivotal.github.com/jasmine/)
+* [  ] [expect.js](https://github.com/LearnBoost/expect.js)
 
 ######JS Auto Documentation Tools
 
@@ -169,6 +172,7 @@ pull requests welcome!
 ######Languages Compliling to HTML
 
 * [  ] [jade](http://jade-lang.com/)
+* [  ] [haml](https://github.com/haml/haml)
 
 ######Front End Application Frameworks (backend agnostic)
 

@@ -15,7 +15,7 @@ pull requests welcome!
 * [  ] [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
 * [  ] [anvil.js](http://appendto.github.com/anvil.js/)
 
-######Browser Package Managers (checkout: Front-End Package Manager Comparison)
+######Browser Package Managers (checkout: [Front-End Package Manager Comparison](https://github.com/wilmoore/frontend-packagers))
 
 * [  ] [bower](http://twitter.github.com/bower/)
 * [  ] [component](https://github.com/component/component)

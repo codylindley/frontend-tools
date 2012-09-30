@@ -18,10 +18,10 @@ pull requests welcome!
 ######Browser Package Managers (checkout: Front-End Package Manager Comparison)
 
 * [  ] [bower](http://twitter.github.com/bower/)
+* [  ] [component](https://github.com/component/component)
 * [  ] [ender](http://ender.no.de/)
 * [  ] [jam](http://jamjs.org/)
 * [  ] [volo](http://volojs.org/)
-
 
 ######CSS Base
 
@@ -149,7 +149,6 @@ pull requests welcome!
 * [  ] [browserling/testling](https://browserling.com/)
 * [  ] [selenium](http://seleniumhq.org/)
 * [  ] [JS test driver](http://code.google.com/p/js-test-driver/)
-
 
 ######Languages Compiling to CSS
 

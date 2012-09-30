@@ -22,7 +22,6 @@ pull requests welcome!
 * [  ] [ender](http://ender.no.de/)
 * [  ] [jam](http://jamjs.org/)
 * [  ] [volo](http://volojs.org/)
-* [  ] [component](https://github.com/component/component)
 
 ######CSS Base
 
@@ -59,6 +58,7 @@ pull requests welcome!
 	* [  ] [underscore.string](http://epeli.github.com/underscore.string/)
 * [  ] [sugar.js](http://sugarjs.com/)
 * [  ] [valentine](https://github.com/ded/valentine)
+* [  ] [platform.js](https://github.com/bestiejs/platform.js#readme)
 * [  ] [modernizr](http://modernizr.com/)
 	* [  ] [yepnope](http://yepnopejs.com/)
 
@@ -73,6 +73,7 @@ pull requests welcome!
 * [  ] [cajon](https://github.com/requirejs/cajon)
 * [  ] [browserify](https://github.com/substack/node-browserify)
 * [  ] [curl](https://github.com/cujojs/curl)
+* [  ] [shepherd-js](http://xcambar.github.com/shepherd-js/)
 
 ######Templates
 
@@ -106,6 +107,7 @@ pull requests welcome!
 * [  ] [mocha](http://visionmedia.github.com/mocha/)
 * [  ] [buster.js](http://busterjs.org/)
 * [  ] [casperJS](http://casperjs.org/)
+* [  ] [benchmark.js](http://benchmarkjs.com/)
 
 ######Tests
 

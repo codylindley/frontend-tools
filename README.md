@@ -142,11 +142,11 @@ pull requests welcome!
 
 * [  ] [google closure compiler](https://developers.google.com/closure/compiler/)
 * [  ] [uglifyJS](https://github.com/mishoo/UglifyJS)
-* [  ] [YUI Compressor](http://)
+* [  ] [YUI Compressor](http://yuilibrary.com/projects/yuicompressor/)
 
 ######CSS Optimizer/Minification/Compression Tools
 
-* [  ] [YUI Compressor](http://)
+* [  ] [YUI Compressor](http://yuilibrary.com/projects/yuicompressor/)
 
 ######Remote DOM and JS Testing
 

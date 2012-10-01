@@ -14,6 +14,7 @@ pull requests welcome!
 * [  ] [liveReload](http://livereload.com/)
 * [  ] [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
 * [  ] [anvil.js](http://appendto.github.com/anvil.js/)
+* [  ] [volo](http://volojs.org/)
 
 ######Browser Package Managers (checkout: [Front-End Package Manager Comparison](https://github.com/wilmoore/frontend-packagers))
 
@@ -21,7 +22,6 @@ pull requests welcome!
 * [  ] [component](https://github.com/component/component)
 * [  ] [ender](http://ender.no.de/)
 * [  ] [jam](http://jamjs.org/)
-* [  ] [volo](http://volojs.org/)
 
 ######CSS Base
 

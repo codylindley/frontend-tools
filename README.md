@@ -66,7 +66,7 @@ pull requests welcome!
 
 * [  ] [-prefix-free](http://leaverou.github.com/prefixfree/)
 
-######Module Loaders
+######Module/Script Loaders ([Javascript Loaders Comparison](https://spreadsheets.google.com/spreadsheet/lv?key=0Aqln2akPWiMIdERkY3J2OXdOUVJDTkNSQ2ZsV3hoWVE&f=true&noheader=true&gid=2))
 
 * [  ] [require.js](http://requirejs.org/)
 	* [  ] [almond](https://github.com/jrburke/almond)

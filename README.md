@@ -61,6 +61,7 @@ pull requests welcome!
 * [  ] [platform.js](https://github.com/bestiejs/platform.js#readme)
 * [  ] [modernizr](http://modernizr.com/)
 	* [  ] [yepnope](http://yepnopejs.com/)
+* [  ] [JSON3](http://bestiejs.github.com/json3/) 
 
 ######CSS Helpers
 

@@ -6,7 +6,6 @@ An opinionated list of frontend tools for desktop/laptop (i.e. does not include 
 
 ##Coding Tools
 
----
 
 ######Workflow/Builds/Assemblers
 
@@ -249,8 +248,6 @@ An opinionated list of frontend tools for desktop/laptop (i.e. does not include 
 
 ##Reference/Guide/Pollyfill/Generator Tools
 
-
----
 
 ######Browser X Supports X
 * [http://caniuse.com/](http://caniuse.com/)

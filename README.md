@@ -314,6 +314,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [css3generator.com](http://css3generator.com/)
 * [css3maker.com](http://www.css3maker.com/)
 * [CSS3 Sandbox](http://westciv.com/tools/index.html)
+* [http://coderwall.com/p/xrxaxa](http://coderwall.com/p/xrxaxa)
 
 ---
 
@@ -334,6 +335,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Internet Explorer ECMA-262 ECMAScript Language Specification (Fifth Edition) Standards Support Document](http://msdn.microsoft.com/en-us/library/ff960769.aspx)
 * [JavaScript Reference, from Mozilla](https://developer.mozilla.org/en-US/docs/JavaScript/Reference)
 * [The sample usage of ECMA 5 Features Implemented in V8](https://gist.github.com/1073547)
+* [Understanding JavaScript OOP](http://killdream.github.com/blog/2011/10/understanding-javascript-oop/)
 * [es5-shim](https://github.com/kriskowal/es5-shim/)
 * [Augment.js](http://augmentjs.com/)
 

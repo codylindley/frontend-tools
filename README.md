@@ -12,7 +12,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [yeoman](http://yeoman.io/)
 * [lumbar](http://walmartlabs.github.com/lumbar/)
 * [brunch](http://brunch.io/)
-* [grunt](https://github.com/cowboy/grunt)
+* [grunt](http://gruntjs.com/)
 * [codeKit](http://incident57.com/codekit/)
 * [liveReload](http://livereload.com/)
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
@@ -295,7 +295,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Generators/
+######CSS Generators
 * [patternify](http://www.patternify.com/)
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 * [patternizer](http://patternizer.com/)

@@ -127,14 +127,20 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [mocha](http://visionmedia.github.com/mocha/)
 * [buster.js](http://busterjs.org/)
 * [casperJS](http://casperjs.org/)
-* [benchmark.js](http://benchmarkjs.com/)
 
 ---
 
-######Tests
+######Unit Tests
 * [qunit](http://qunitjs.com/)
 * [jasmine](http://pivotal.github.com/jasmine/)
 * [expect.js](https://github.com/LearnBoost/expect.js)
+
+---
+
+######JS Performance Testing
+
+* [benchmark.js](http://benchmarkjs.com/)
+* [jsPerf — JavaScript performance playground](http://jsperf.com/)
 
 ---
 
@@ -278,7 +284,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [DOM Living Standard](http://dom.spec.whatwg.org/)
 * [DOM Parsing and Serialization Living Standard](http://domparsing.spec.whatwg.org/)
 * [DOM4](http://www.w3.org/TR/dom/)
-* [Document Object Model (DOM) Technical Reports](http://www.w3.org/DOM/DOMTR)
+* [Document Object Model (DOM) Technical Reports, from W3C](http://www.w3.org/DOM/DOMTR)
 * [Document Object Model, from Microsoft](http://msdn.microsoft.com/en-us/library/ie/hh772384\(v=vs.85\).aspx)
 * [Document Object Model, from Mozilla](https://developer.mozilla.org/en-US/docs/DOM)
 * [Event compatibility tables](http://www.quirksmode.org/dom/events/index.html)
@@ -288,10 +294,10 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######CSS Specs/Ref & Polyfills
 * [CSS, from Mozilla](https://developer.mozilla.org/en-US/docs/CSS)
 * [CSS SPEC­I­FI­CA­TIONS, from W3C](http://www.w3.org/Style/CSS/current-work)
-* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 * [http://cssvalues.com/](http://cssvalues.com/)
 * [CSS contents and browser compatibility](http://www.quirksmode.org/css/contents.html)
 * [CSS Compatibility and Internet Explorer](http://msdn.microsoft.com/en-us/library/cc351024\(VS.85\).aspx)
+* [HTML5 Cross Browser Polyfills (look for CSS)](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
 ---
 
@@ -304,6 +310,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [CSS Flexbox Please](http://demo.agektmr.com/flexbox/)
 * [CSS3 GENERATOR](http://www.css3.me/)
 * [css3generator.com](http://css3generator.com/)
+* [css3maker.com](http://www.css3maker.com/)
+* [CSS3 Sandbox](http://westciv.com/tools/index.html)
 
 ---
 
@@ -323,6 +331,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [ECMAScript 5 compatibility table](http://kangax.github.com/es5-compat-table/)
 * [Internet Explorer ECMA-262 ECMAScript Language Specification (Fifth Edition) Standards Support Document](http://msdn.microsoft.com/en-us/library/ff960769.aspx)
 * [JavaScript Reference, from Mozilla](https://developer.mozilla.org/en-US/docs/JavaScript/Reference)
+* [The sample usage of ECMA 5 Features Implemented in V8](https://gist.github.com/1073547)
 * [es5-shim](https://github.com/kriskowal/es5-shim/)
 * [Augment.js](http://augmentjs.com/)
 

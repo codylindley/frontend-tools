@@ -279,7 +279,7 @@ An opinionated list of tools for fronted (i.e. html, js, css) desktop/laptop (i.
 * [DOM Parsing and Serialization Living Standard](http://domparsing.spec.whatwg.org/)
 * [DOM4](http://www.w3.org/TR/dom/)
 * [Document Object Model (DOM) Technical Reports](http://www.w3.org/DOM/DOMTR)
-* [Document Object Model, from Microsoft](http://msdn.microsoft.com/en-us/library/ie/hh772384(v=vs.85).aspx)
+* [Document Object Model, from Microsoft](http://msdn.microsoft.com/en-us/library/ie/hh772384\(v=vs.85\).aspx)
 * [Document Object Model, from Mozilla](https://developer.mozilla.org/en-US/docs/DOM)
 * [Event compatibility tables](http://www.quirksmode.org/dom/events/index.html)
 
@@ -312,6 +312,7 @@ An opinionated list of tools for fronted (i.e. html, js, css) desktop/laptop (i.
 * [SMACCS](http://smacss.com/)
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#Declaration_order)
 * [idiomatic-css](https://github.com/necolas/idiomatic-css)
+* [Object-Oriented CSS](http://oocss.org/)
 
 ---
 
@@ -329,7 +330,7 @@ An opinionated list of tools for fronted (i.e. html, js, css) desktop/laptop (i.
 
 ######JavaScript ES6 Specs/Ref & Polyfills
 * [ES6 what can be shimmed and what not](https://gist.github.com/1665192)
-* [ECMAScript 6 compatibility table](ECMAScript 6 compatibility table)
+* [ECMAScript 6 compatibility table](http://kangax.github.com/es5-compat-table/es6/)
 * [Draft Specification for ES.next (Ecma-262 Edition 6)](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts)
 * [es6-shim](https://github.com/paulmillr/es6-shim)
  
@@ -346,6 +347,7 @@ An opinionated list of tools for fronted (i.e. html, js, css) desktop/laptop (i.
 ######General Front-end Practices/Conventions
 * [isobar](http://isobar-idev.github.com/code-standards/)
 * [Being A Web Developer](http://www.yellowshoe.com.au/standards/)
+* [Front End Dev Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/)
 
 
 

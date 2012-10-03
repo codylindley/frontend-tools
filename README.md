@@ -1,7 +1,10 @@
-#Landscaping (i.e. build stuff) With Frontend Tools
+#Landscaping With Frontend Tools
 
 
-An opinionated list of frontend tools for desktop/laptop (i.e. does not include tablet or phone yet) development
+An opinionated list of frontend tools for desktop/laptop (i.e. does not include tablet or phone yet) web development
+
+
+##Coding Tools
 
 ---
 
@@ -39,6 +42,7 @@ An opinionated list of frontend tools for desktop/laptop (i.e. does not include 
 * [bootstrap](http://twitter.github.com/bootstrap/)
 * [kube](http://kubeframework.com/)
 * [skeleton](http://www.getskeleton.com/)
+* [baseline](http://baselinecss.com/)
 
 ---
 
@@ -242,6 +246,10 @@ An opinionated list of frontend tools for desktop/laptop (i.e. does not include 
 
 ---
 
+##Reference/Guide/Pollyfill/Generator Tools
+
+---
+
 ######Browser X Supports X
 * [http://caniuse.com/](http://caniuse.com/)
 * [http://html5please.com/](http://html5please.com/)
@@ -252,12 +260,11 @@ An opinionated list of frontend tools for desktop/laptop (i.e. does not include 
 
 ######HTML Language References & Polyfills
 * [HTML5 A technical specification for Web developers](http://developers.whatwg.org/)
-* [HTML
-Living Standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/)
+* [HTML Living Standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/)
 * [HTML5 A vocabulary and associated APIs for HTML and XHTML](http://www.w3.org/TR/html5/)
 * [HTML 5 Reference A Web Developer’s Guide to HTML 5](http://dev.w3.org/html5/html-author/)
-* [html5.js](https://github.com/bestiejs/html5.js)
 * [HyperText Markup Language (HTML), from Mozilla](https://developer.mozilla.org/en-US/docs/HTML)
+* [html5.js](https://github.com/bestiejs/html5.js)
 
 ---
 
@@ -289,23 +296,57 @@ Living Standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/)
 
 ---
 
+######CSS Generators/
+* [patternify](http://www.patternify.com/)
+* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+* [patternizer](http://patternizer.com/)
+* [css3please.com](http://css3please.com/)
+* [cssarrowplease.com](http://cssarrowplease.com/)
+* [CSS Flexbox Please](http://demo.agektmr.com/flexbox/)
+* [CSS3 GENERATOR](http://www.css3.me/)
+* [css3generator.com](http://css3generator.com/)
+
+---
+
+######CSS Style/Conventions Guides
+* [kss](https://github.com/kneath/kss#readme)
+* [SMACCS](http://smacss.com/)
+* [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#Declaration_order)
+* [idiomatic-css](https://github.com/necolas/idiomatic-css)
+
+---
+
 ######JavaScript ES5 Specs/Ref & Polyfills
 * [ECMA-262-5 in detail](http://dmitrysoshnikov.com/ecmascript/es5-chapter-0-introduction/)
 * [ECMAScript Language Specification](http://ecma-international.org/ecma-262/5.1/)
 * [Annotated ECMAScript 5.1](http://es5.github.com/)
-* [es5-shim](https://github.com/kriskowal/es5-shim/)
-* [Augment.js](http://augmentjs.com/)
 * [ECMAScript 5 compatibility table](http://kangax.github.com/es5-compat-table/)
 * [Internet Explorer ECMA-262 ECMAScript Language Specification (Fifth Edition) Standards Support Document](http://msdn.microsoft.com/en-us/library/ff960769.aspx)
 * [JavaScript Reference, from Mozilla](https://developer.mozilla.org/en-US/docs/JavaScript/Reference)
+* [es5-shim](https://github.com/kriskowal/es5-shim/)
+* [Augment.js](http://augmentjs.com/)
 
 ---
 
 ######JavaScript ES6 Specs/Ref & Polyfills
-* [es6-shim](https://github.com/paulmillr/es6-shim)
 * [ES6 what can be shimmed and what not](https://gist.github.com/1665192)
 * [ECMAScript 6 compatibility table](ECMAScript 6 compatibility table)
 * [Draft Specification for ES.next (Ecma-262 Edition 6)](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts)
+* [es6-shim](https://github.com/paulmillr/es6-shim)
+ 
+---
+
+######JavaScript Style/Conventions Guides
+* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [Felix's Node.js Style Guide](http://nodeguide.com/style.html)
+* [idiomatic.js](https://github.com/rwldrn/idiomatic.js)
+* [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html)
+ 
+---
+
+######General Front-end Practices/Conventions
+* [isobar](http://isobar-idev.github.com/code-standards/)
+* [Being A Web Developer](http://www.yellowshoe.com.au/standards/)
 
 
 

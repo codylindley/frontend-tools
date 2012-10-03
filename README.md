@@ -1,4 +1,4 @@
-#Landscaping With Frontend Tools
+#Landscaping With Frontend Development Tools
 
 
 An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i.e. does not include tablet or phone yet) web development

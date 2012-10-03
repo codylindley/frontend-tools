@@ -314,7 +314,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [css3generator.com](http://css3generator.com/)
 * [css3maker.com](http://www.css3maker.com/)
 * [CSS3 Sandbox](http://westciv.com/tools/index.html)
-* [http://coderwall.com/p/xrxaxa](http://coderwall.com/p/xrxaxa)
+* [The Shapes of Css](http://coderwall.com/p/xrxaxa)
 
 ---
 

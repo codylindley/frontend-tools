@@ -251,7 +251,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-
 ##Reference/Guide/Pollyfill/Generator Tools
 
 
@@ -260,6 +259,9 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [http://html5please.com/](http://html5please.com/)
 * [http://html5readiness.com/](http://html5readiness.com/)
 * [http://www.browsersupport.net/](http://www.browsersupport.net/)
+* [http://css3test.com/](http://css3test.com/)
+* [Browserscope](http://www.browserscope.org/)
+* [HTML5 & CSS3 Support](http://www.findmebyip.com/litmus/)
 
 ---
 

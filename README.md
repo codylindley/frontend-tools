@@ -335,6 +335,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [JavaScript Reference, from Mozilla](https://developer.mozilla.org/en-US/docs/JavaScript/Reference)
 * [The sample usage of ECMA 5 Features Implemented in V8](https://gist.github.com/1073547)
 * [Understanding JavaScript OOP](http://killdream.github.com/blog/2011/10/understanding-javascript-oop/)
+* [JavaScript, aka. Web ECMAScript Living Standard](http://mathias.html5.org/specs/javascript/)
 * [es5-shim](https://github.com/kriskowal/es5-shim/)
 * [Augment.js](http://augmentjs.com/)
 

@@ -270,6 +270,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [HTML5 A vocabulary and associated APIs for HTML and XHTML](http://www.w3.org/TR/html5/)
 * [HTML 5 Reference A Web Developer’s Guide to HTML 5](http://dev.w3.org/html5/html-author/)
 * [HyperText Markup Language (HTML), from Mozilla](https://developer.mozilla.org/en-US/docs/HTML)
+* [HTML5 differences from HTML4](http://dev.w3.org/html5/html4-differences/)
 * [html5.js](https://github.com/bestiejs/html5.js)
 
 ---

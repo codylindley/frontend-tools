@@ -35,7 +35,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Frameworks
+######CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php))
 
 * [foundation](http://foundation.zurb.com/)
 * [bootstrap](http://twitter.github.com/bootstrap/)
@@ -107,7 +107,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######UI Widgets
+######UI Widgets ([comparison](http://uiwidgets.t7interactive.com/))
 * [chico-ui](http://chico-ui.com.ar/)
 * [google closure](http://closure-library.googlecode.com/svn/trunk/closure/goog/demos/index.html)
 * [DHTMLX](http://dhtmlx.com/)

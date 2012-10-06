@@ -238,7 +238,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######Full Stack Application Frameworks
 * [tower.js](http://towerjs.org/) (requires NodeJS)
 * [wakanda](http://www.wakanda.org/)
-* [meteor](http://http://www.meteor.com/)
+* [meteor](http://www.meteor.com/)
 
 ---
 

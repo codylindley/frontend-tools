@@ -239,7 +239,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######Full Stack Application Frameworks
 * [tower.js](http://towerjs.org/) (requires NodeJS)
 * [wakanda](http://www.wakanda.org/)
-* [meteor](http://http://www.meteor.com/)
+* [meteor](http://www.meteor.com/)
 
 ---
 
@@ -321,7 +321,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######CSS Style/Conventions Guides
 * [kss](https://github.com/kneath/kss#readme)
-* [SMACCS](http://smacss.com/)
+* [SMACSS](http://smacss.com/)
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#Declaration_order)
 * [idiomatic-css](https://github.com/necolas/idiomatic-css)
 * [Object-Oriented CSS](http://oocss.org/)

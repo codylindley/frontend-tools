@@ -194,6 +194,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######Languages Compiling to CSS
 * [SASS](http://sass-lang.com/)
 	* [compass](http://compass-style.org)
+	* [inuit.css](https://github.com/csswizardry/inuit.css)
 * [stylus](http://learnboost.github.com/stylus/)
 	* [nib](http://visionmedia.github.com/nib/)
 * [less](http://lesscss.org)

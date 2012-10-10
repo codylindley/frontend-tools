@@ -27,6 +27,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [component](https://github.com/component/component)
 * [ender](http://ender.no.de/)
 * [jam](http://jamjs.org/)
+* [spm](https://github.com/seajs/spm)
 
 ---
 
@@ -90,6 +91,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [browserify](https://github.com/substack/node-browserify)
 * [curl](https://github.com/cujojs/curl)
 * [shepherd-js](http://xcambar.github.com/shepherd-js/)
+* [SeaJS](http://seajs.org/)
 
 ---
 

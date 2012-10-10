@@ -287,6 +287,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [HTML5 & Friends, from Mozilla](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
 * [html5rocks](http://www.html5rocks.com/en/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
+* [HTML5 - Information and samples for HTML5 and related APIs](http://robertnyman.com/html5/)
 
 ---
 

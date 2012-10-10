@@ -154,6 +154,9 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [docco-husky](https://github.com/mbrevoort/docco-husky)
 * [jsduck](https://github.com/senchalabs/jsduck)
 * [jsdoc](http://code.google.com/p/jsdoc-toolkit/)
+* [node-jsdoc-toolkit](https://github.com/p120ph37/node-jsdoc-toolkit)
+* [dox](https://github.com/visionmedia/dox)
+	* [markdox](https://github.com/cbou/markdox)
 
 ---
 

@@ -90,6 +90,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [browserify](https://github.com/substack/node-browserify)
 * [curl](https://github.com/cujojs/curl)
 * [shepherd-js](http://xcambar.github.com/shepherd-js/)
+* [UMD (Universal Module Definition)](https://github.com/umdjs/umd)
+* [Inject](https://github.com/linkedin/inject)
 
 ---
 
@@ -127,6 +129,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [mocha](http://visionmedia.github.com/mocha/)
 * [buster.js](http://busterjs.org/)
 * [casperJS](http://casperjs.org/)
+* [testem](https://github.com/airportyh/testem)
 
 ---
 

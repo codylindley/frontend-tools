@@ -74,7 +74,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [platform.js](https://github.com/bestiejs/platform.js#readme)
 * [modernizr](http://modernizr.com/)
 	* [yepnope](http://yepnopejs.com/)
-* [JSON3](http://bestiejs.github.com/json3/) 
+* [JSON3](http://bestiejs.github.com/json3/)
+* [uri.js](https://github.com/medialize/URI.js)
 
 ---
 

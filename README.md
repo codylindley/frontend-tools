@@ -312,9 +312,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [HTML5 Cross Browser Polyfills (look for CSS)](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 * [CSS Selectors from CSS4 till CSS1](http://css4-selectors.com/selectors/)
 
-
-
-
 ---
 
 ######CSS Generators
@@ -369,6 +366,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Felix's Node.js Style Guide](http://nodeguide.com/style.html)
 * [idiomatic.js](https://github.com/rwldrn/idiomatic.js)
 * [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html)
+* [jsbeautifier](http://jsbeautifier.org/)
  
 ---
 
@@ -376,6 +374,32 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [isobar](http://isobar-idev.github.com/code-standards/)
 * [Being A Web Developer](http://www.yellowshoe.com.au/standards/)
 * [Front End Dev Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/)
+
+##Perforamnce
+
+######Tools
+
+* [Charles](http://www.charlesproxy.com/)
+* [webpagetest](http://www.webpagetest.org/)
+* [Chrome Developer Tools: Network Panel](https://developers.google.com/chrome-developer-tools/docs/network)
+* [Chrome Developer Tools: Timeline Panel](https://developers.google.com/chrome-developer-tools/docs/timeline)
+* [Chrome Developer Tools: Profiles Panel](https://developers.google.com/chrome-developer-tools/docs/profiles)
+* [DOM Monster](http://mir.aculo.us/dom-monster/)
+
+######Rules/Practices
+
+* [Web Performance Best Practices](https://developers.google.com/speed/docs/best-practices/rules_intro)
+* [Best Practices for Speeding Up Your Web Site](http://developer.yahoo.com/performance/rules.html)
+* [High Performance Web Sites - 14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/)
+* [Even Faster Web Sites](http://stevesouders.com/efws/)
+
+
+
+
+
+
+
+
 
 
 

@@ -375,12 +375,13 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Being A Web Developer](http://www.yellowshoe.com.au/standards/)
 * [Front End Dev Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/)
 
-##Perforamnce
+##Performance
 
 ######Tools
 
 * [Charles](http://www.charlesproxy.com/)
 * [webpagetest](http://www.webpagetest.org/)
+* [PageSpeed Insights Browser Extensions](https://developers.google.com/speed/pagespeed/)
 * [Chrome Developer Tools: Network Panel](https://developers.google.com/chrome-developer-tools/docs/network)
 * [Chrome Developer Tools: Timeline Panel](https://developers.google.com/chrome-developer-tools/docs/timeline)
 * [Chrome Developer Tools: Profiles Panel](https://developers.google.com/chrome-developer-tools/docs/profiles)

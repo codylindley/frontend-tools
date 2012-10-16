@@ -184,6 +184,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [google closure compiler](https://developers.google.com/closure/compiler/)
 * [uglifyJS](https://github.com/mishoo/UglifyJS)
 * [YUI Compressor](http://yuilibrary.com/projects/yuicompressor/)
+* [Esprima](http://esprima.org/index.html)
 
 ---
 

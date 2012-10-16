@@ -17,7 +17,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [liveReload](http://livereload.com/)
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
 * [anvil.js](http://appendto.github.com/anvil.js/)
-* [volo](http://volojs.org/)
 
 ---
 
@@ -95,6 +94,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [shepherd-js](http://xcambar.github.com/shepherd-js/)
 * [UMD (Universal Module Definition)](https://github.com/umdjs/umd)
 * [Inject](https://github.com/linkedin/inject)
+* [volo](http://volojs.org/)
 
 ---
 

@@ -224,7 +224,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Front End Application Frameworks (backend agnostic)
+######Front End Application Structure (somewhat backend agnostic)
 * [backbone](http://backbonejs.org/)
 	* [marionette](http://marionettejs.com)
 	* [chaplin](http://chaplinjs.github.com/)
@@ -235,10 +235,11 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [canjs](http://canjs.us/)
 * [spine](http://spinejs.com/)
 * [angularJS](http://angularjs.org/)
+* [maria](http://peter.michaux.ca/maria/)
 
 ---
 
-######Front End Application Frameworks (with backend opinions)
+######Front End Application Structure (with backend opinions)
 * [derby](http://derbyjs.com/) (requires NodeJS)
 * [flatiron](http://flatironjs.org/) (requires NodeJS)
 * [batman.js](http://batmanjs.org/) (requires NodeJS)
@@ -246,7 +247,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Full Stack Application Frameworks
+######Full Stack Application Structure/Frameworks
 * [tower.js](http://towerjs.org/) (requires NodeJS)
 * [wakanda](http://www.wakanda.org/)
 * [meteor](http://www.meteor.com/)

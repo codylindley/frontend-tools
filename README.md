@@ -76,6 +76,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [yepnope](http://yepnopejs.com/)
 * [JSON3](http://bestiejs.github.com/json3/)
 * [uri.js](https://github.com/medialize/URI.js)
+* [moments.js](http://momentjs.com/)
+* [mousestrap](http://craig.is/killing/mice)
 
 ---
 
@@ -289,6 +291,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [html5rocks](http://www.html5rocks.com/en/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 * [HTML5 - Information and samples for HTML5 and related APIs](http://robertnyman.com/html5/)
+* [HTML 5 Demos and Examples](http://html5demos.com/)
 
 ---
 

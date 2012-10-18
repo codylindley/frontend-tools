@@ -183,13 +183,12 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######JS Optimizer/Minification/Compression Tools
 * [google closure compiler](https://developers.google.com/closure/compiler/)
 * [uglifyJS](https://github.com/mishoo/UglifyJS)
-* [YUI Compressor](http://yuilibrary.com/projects/yuicompressor/)
 * [Esprima](http://esprima.org/index.html)
 
 ---
 
 ######CSS Optimizer/Minification/Compression Tools
-* [YUI Compressor](http://yuilibrary.com/projects/yuicompressor/)
+* [ycssmin](https://github.com/yui/ycssmin)
 
 ---
 

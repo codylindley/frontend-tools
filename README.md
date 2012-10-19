@@ -18,7 +18,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [liveReload](http://livereload.com/)
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
 * [anvil.js](http://appendto.github.com/anvil.js/)
-* [volo](http://volojs.org/)
 
 ---
 
@@ -96,6 +95,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [shepherd-js](http://xcambar.github.com/shepherd-js/)
 * [UMD (Universal Module Definition)](https://github.com/umdjs/umd)
 * [Inject](https://github.com/linkedin/inject)
+* [volo](http://volojs.org/)
 
 ---
 
@@ -184,12 +184,12 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######JS Optimizer/Minification/Compression Tools
 * [google closure compiler](https://developers.google.com/closure/compiler/)
 * [uglifyJS](https://github.com/mishoo/UglifyJS)
-* [YUI Compressor](http://yuilibrary.com/projects/yuicompressor/)
+* [Esprima](http://esprima.org/index.html)
 
 ---
 
 ######CSS Optimizer/Minification/Compression Tools
-* [YUI Compressor](http://yuilibrary.com/projects/yuicompressor/)
+* [ycssmin](https://github.com/yui/ycssmin)
 
 ---
 
@@ -224,7 +224,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Front End Application Frameworks (backend agnostic)
+######Front End Application Structure (somewhat backend agnostic)
 * [backbone](http://backbonejs.org/)
 	* [marionette](http://marionettejs.com)
 	* [chaplin](http://chaplinjs.github.com/)
@@ -235,10 +235,11 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [canjs](http://canjs.us/)
 * [spine](http://spinejs.com/)
 * [angularJS](http://angularjs.org/)
+* [maria](http://peter.michaux.ca/maria/)
 
 ---
 
-######Front End Application Frameworks (with backend opinions)
+######Front End Application Structure (with backend opinions)
 * [derby](http://derbyjs.com/) (requires NodeJS)
 * [flatiron](http://flatironjs.org/) (requires NodeJS)
 * [batman.js](http://batmanjs.org/) (requires NodeJS)
@@ -246,7 +247,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Full Stack Application Frameworks
+######Full Stack Application Structure/Frameworks
 * [tower.js](http://towerjs.org/) (requires NodeJS)
 * [wakanda](http://www.wakanda.org/)
 * [meteor](http://www.meteor.com/)
@@ -283,6 +284,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [HTML 5 Reference A Web Developer’s Guide to HTML 5](http://dev.w3.org/html5/html-author/)
 * [HyperText Markup Language (HTML), from Mozilla](https://developer.mozilla.org/en-US/docs/HTML)
 * [HTML5 differences from HTML4](http://dev.w3.org/html5/html4-differences/)
+* [html5shiv](https://github.com/aFarkas/html5shiv)
 * [html5.js](https://github.com/bestiejs/html5.js)
 
 ---

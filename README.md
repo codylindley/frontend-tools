@@ -121,6 +121,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [kendoUI](http://www.kendoui.com/)
 * [qooxdoo](http://qooxdoo.org/)
 * [boostrap components & javascript](http://twitter.github.com/bootstrap/javascript.html)
+	* [Fuel UX](http://exacttarget.github.com/fuelux/)
 * [wijmo](http://wijmo.com/)
 * [YUI3 Widgets](http://yuilibrary.com/yui/docs/guides/)
 * [dojo dijits](http://dojotoolkit.org/reference-guide/1.8/dojox/index.html)

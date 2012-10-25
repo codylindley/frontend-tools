@@ -51,11 +51,12 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######DOM Scripting
+######DOM Scripting (FYI dojo, yui, ext, qooxdoo all have DOM tools)
 * [jQuery](http://jquery.com/)
 	*  [jQuery++](http://jquerypp.com/)
 * [zepto](http://zeptojs.com/)
 * [mooTools](http://mootools.net/)
+* [DOMAssistant](http://www.domassistant.com/)
 * [Enders The Jeesh](https://github.com/ender-js/jeesh)
  	* [domReady](https://github.com/ded/domready)
  	* [query](https://github.com/ded/qwery)
@@ -77,6 +78,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [JSON3](http://bestiejs.github.com/json3/)
 * [uri.js](https://github.com/medialize/URI.js)
 * [moments.js](http://momentjs.com/)
+* [wait.js](https://github.com/elving/wait)
 * [mousestrap](http://craig.is/killing/mice)
 
 ---
@@ -397,6 +399,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Chrome Developer Tools: Timeline Panel](https://developers.google.com/chrome-developer-tools/docs/timeline)
 * [Chrome Developer Tools: Profiles Panel](https://developers.google.com/chrome-developer-tools/docs/profiles)
 * [DOM Monster](http://mir.aculo.us/dom-monster/)
+* [ImageOptim](http://imageoptim.com/)
 
 ######Rules/Practices
 

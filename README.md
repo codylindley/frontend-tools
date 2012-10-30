@@ -80,7 +80,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [uri.js](https://github.com/medialize/URI.js)
 * [moments.js](http://momentjs.com/)
 * [wait.js](https://github.com/elving/wait)
-* [number.js](http://numeraljs.com/)
+* [Numeral.js](http://numeraljs.com/)
 * [mousestrap](http://craig.is/killing/mice)
 
 ---

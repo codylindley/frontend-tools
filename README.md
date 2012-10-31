@@ -123,6 +123,11 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
+######Animation Frameworks
+* [CSS3 Animations with jQuery.transit](http://ricostacruz.com/jquery.transit/)
+
+---
+
 ######UI Widgets ([comparison](http://uiwidgets.t7interactive.com/))
 * [chico-ui](http://chico-ui.com.ar/)
 * [google closure](http://closure-library.googlecode.com/svn/trunk/closure/goog/demos/index.html)

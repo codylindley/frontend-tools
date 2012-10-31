@@ -212,12 +212,16 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ---
 
 ######Languages Compiling to CSS
-* [SASS](http://sass-lang.com/)
+* [Sass](http://sass-lang.com/)
 	* [compass](http://compass-style.org)
 	* [inuit.css](https://github.com/csswizardry/inuit.css)
+	* [Bourbon](https://github.com/thoughtbot/bourbon): Mixins library for Sass
+	* [Neat](https://github.com/thoughtbot/neat): Semantic CSS grid framework
 * [stylus](http://learnboost.github.com/stylus/)
 	* [nib](http://visionmedia.github.com/nib/)
 * [less](http://lesscss.org)
+	* [LESS Elements](http://lesselements.com/): Mixins library for LESS
+	* [Semantic.gs](http://semantic.gs/): Semantic CSS grid system
 
 ######Languages Compiling to JS ([http://altjs.org/](http://altjs.org/))
 * [coffeeScript](http://coffeescript.org/)

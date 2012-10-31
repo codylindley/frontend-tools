@@ -208,6 +208,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######CSS Optimizer/Minification/Compression Tools
 * [ycssmin](https://github.com/yui/ycssmin)
+* [CSSO](https://github.com/css/csso)
 
 ---
 

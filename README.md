@@ -371,6 +371,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Understanding JavaScript OOP](http://killdream.github.com/blog/2011/10/understanding-javascript-oop/)
 * [JavaScript, aka. Web ECMAScript Living Standard](http://mathias.html5.org/specs/javascript/)
 * [es5-shim](https://github.com/kriskowal/es5-shim/)
+* [poly](https://github.com/cujojs/poly)
 * [Augment.js](http://augmentjs.com/)
 
 ---

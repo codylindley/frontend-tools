@@ -240,7 +240,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Front End Application Structure (somewhat backend agnostic)
+######Front End Application Structure (somewhat backend agnostic) ([Comparison](http://addyosmani.github.com/todomvc/))
 * [backbone](http://backbonejs.org/)
 	* [marionette](http://marionettejs.com)
 	* [chaplin](http://chaplinjs.github.com/)

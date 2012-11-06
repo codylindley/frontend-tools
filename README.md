@@ -381,6 +381,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [ECMAScript 6 compatibility table](http://kangax.github.com/es5-compat-table/es6/)
 * [Draft Specification for ES.next (Ecma-262 Edition 6)](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts)
 * [es6-shim](https://github.com/paulmillr/es6-shim)
+* [ECMA-262 6th Edition/Draft](http://people.mozilla.org/~jorendorff/es6-draft.html)
  
 ---
 

@@ -240,7 +240,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Front End Application Structure (somewhat backend agnostic) ([Comparison](http://addyosmani.github.com/todomvc/))
+######Front End Application Structure (somewhat backend agnostic)
 * [backbone](http://backbonejs.org/)
 	* [marionette](http://marionettejs.com)
 	* [chaplin](http://chaplinjs.github.com/)
@@ -420,8 +420,35 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Even Faster Web Sites](http://stevesouders.com/efws/)
 
 
+##Online repl's/editors/IDE's
 
+######JS relps
+* [repl.it](http://repl.it/)
+* [jsconsole.com](http://jsconsole.com/)
 
+######JS focused editors
+* [jsfiddle](http://jsfiddle.net/)
+* [jsbin](http://jsbin.com/)
+
+######Regular Expression Editors
+* [Scriptular](http://scriptular.com/)
+* [regexr](http://gskinner.com/RegExr/)
+* [refiddle](http://refiddle.com/)
+
+######HTML/CSS editors
+* [dabblet](http://dabblet.com/)
+* [cssdesk](http://cssdesk.com/)
+
+######HTML/CSS/JS editors
+* [tinker.io](https://tinker.io/)
+* [tinkerbin](http://tinkerbin.com/)
+* [Plunker](https://github.com/filearts/plunker)
+* [cssdeck](http://cssdeck.com/)
+* [codepen](http://codepen.io/)
+
+######IDE's
+* [koding](https://koding.com/)
+* [cloud9 IDE](https://c9.io/)
 
 
 

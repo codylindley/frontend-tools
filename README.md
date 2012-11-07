@@ -420,9 +420,9 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Even Faster Web Sites](http://stevesouders.com/efws/)
 
 
-##Online repl's/editors/IDE's
+##Online REPL's/editors/IDE's
 
-######JS relps
+######JS REPL
 * [repl.it](http://repl.it/)
 * [jsconsole.com](http://jsconsole.com/)
 
@@ -430,7 +430,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [jsfiddle](http://jsfiddle.net/)
 * [jsbin](http://jsbin.com/)
 
-######Regular Expression Editors
+######Regular Expression editors
 * [Scriptular](http://scriptular.com/)
 * [regexr](http://gskinner.com/RegExr/)
 * [refiddle](http://refiddle.com/)

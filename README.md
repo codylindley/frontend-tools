@@ -152,6 +152,12 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [jasmine](http://pivotal.github.com/jasmine/)
 * [expect.js](https://github.com/LearnBoost/expect.js)
 
+######Assertion Libraries
+
+* [chai](http://chaijs.com/)
+* [should](https://github.com/visionmedia/should.js)
+* [expect](https://github.com/LearnBoost/expect.js)
+
 ---
 
 ######Remote DOM and JS Testing

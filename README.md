@@ -140,9 +140,13 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [testem](https://github.com/airportyh/testem)
 * [testacular](http://vojtajina.github.com/testacular/)
 
+---
+
 ######User Automated Testing
 
 * [casperJS](http://casperjs.org/)
+
+---
 
 ######Testing Frameworks
 
@@ -151,6 +155,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [qunit](http://qunitjs.com/)
 * [jasmine](http://pivotal.github.com/jasmine/)
 * [expect.js](https://github.com/LearnBoost/expect.js)
+
+---
 
 ######Assertion Libraries
 
@@ -165,7 +171,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [browserling/testling](https://browserling.com/)
 * [selenium](http://seleniumhq.org/)
 * [JS test driver](http://code.google.com/p/js-test-driver/)
-
 
 ---
 
@@ -453,7 +458,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [cssdeck](http://cssdeck.com/)
 * [codepen](http://codepen.io/)
 
-######IDE's
+######Browser IDE's
 * [koding](https://koding.com/)
 * [cloud9 IDE](https://c9.io/)
 

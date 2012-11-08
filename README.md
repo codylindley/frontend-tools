@@ -391,6 +391,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [idiomatic.js](https://github.com/rwldrn/idiomatic.js)
 * [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html)
 * [jsbeautifier](http://jsbeautifier.org/)
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
  
 ---
 

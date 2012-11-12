@@ -73,6 +73,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [underscore](http://underscorejs.org/)
 	* [underscore.string](http://epeli.github.com/underscore.string/)
 * [sugar.js](http://sugarjs.com/)
+* [craft.js](http://craftjs.org/)
 * [valentine](https://github.com/ded/valentine)
 * [platform.js](https://github.com/bestiejs/platform.js#readme)
 * [modernizr](http://modernizr.com/)

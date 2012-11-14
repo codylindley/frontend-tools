@@ -473,6 +473,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [stackmob](http://www.stackmob.com/)
 * [cloudmine](https://cloudmine.me/)
 * [kumulos](http://www.kumulos.com/)
+* [deployd](http://deployd.com/)
 
 
 

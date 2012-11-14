@@ -463,6 +463,18 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [koding](https://koding.com/)
 * [cloud9 IDE](https://c9.io/)
 
+##Backend services for frontend developers
+
+* [firebase](https://www.firebase.com/index.html)
+* [parse](https://www.parse.com)
+* [singly](https://singly.com/)
+* [cloud CMS](https://www.cloudcms.com/)
+* [kinvey](http://www.kinvey.com/)
+* [stackmob](http://www.stackmob.com/)
+* [cloudmine](https://cloudmine.me/)
+* [kumulos](http://www.kumulos.com/)
+
+
 
 
 

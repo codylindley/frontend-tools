@@ -323,6 +323,15 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 * [HTML5 - Information and samples for HTML5 and related APIs](http://robertnyman.com/html5/)
 * [HTML 5 Demos and Examples](http://html5demos.com/)
+* [SVG](https://developer.mozilla.org/en-US/docs/SVG)
+	* [SVG-edit browser editor](http://svg-edit.googlecode.com/svn-history/r1771/trunk/editor/svg-editor.html)
+	* [D3.js](http://d3js.org/)
+	* [raphaeljs](http://raphaeljs.com/)
+* [Canvas](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
+	* [paper.js](http://paperjs.org/)
+	* [fabric.js](http://fabricjs.com/)
+* [webGL](https://developer.mozilla.org/en-US/docs/WebGL)
+	* [three.js](http://mrdoob.github.com/three.js/)
 
 ---
 
@@ -474,7 +483,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [cloudmine](https://cloudmine.me/)
 * [kumulos](http://www.kumulos.com/)
 * [deployd](http://deployd.com/)
-
 
 
 

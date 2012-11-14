@@ -327,9 +327,11 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [SVG-edit browser editor](http://svg-edit.googlecode.com/svn-history/r1771/trunk/editor/svg-editor.html)
 	* [D3.js](http://d3js.org/)
 	* [raphaeljs](http://raphaeljs.com/)
+	* [bonsaijs.org](http://bonsaijs.org/)
 * [Canvas](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
 	* [paper.js](http://paperjs.org/)
 	* [fabric.js](http://fabricjs.com/)
+	* [kineticjs](http://kineticjs.com/)
 * [webGL](https://developer.mozilla.org/en-US/docs/WebGL)
 	* [three.js](http://mrdoob.github.com/three.js/)
 

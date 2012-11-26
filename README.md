@@ -103,6 +103,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [UMD (Universal Module Definition)](https://github.com/umdjs/umd)
 * [Inject](https://github.com/linkedin/inject)
 * [volo](http://volojs.org/)
+* [controlJS](http://controljs.org/)
+* [JAL](https://github.com/tail-f-systems/JAL)
 
 ---
 
@@ -203,6 +205,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######JS Quality Validators
 * [jslint](http://www.jslint.com/)
 * [jshint](http://www.jshint.com/)
+* [JSLint Error Explanations](http://jslinterrors.com/)
 
 ---
 
@@ -297,6 +300,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [http://caniuse.com/](http://caniuse.com/)
 * [http://html5please.com/](http://html5please.com/)
 * [http://html5readiness.com/](http://html5readiness.com/)
+* [html5test.com](http://html5test.com/index.html)
 * [http://www.browsersupport.net/](http://www.browsersupport.net/)
 * [http://css3test.com/](http://css3test.com/)
 * [Browserscope](http://www.browserscope.org/)
@@ -474,6 +478,11 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######Browser IDE's
 * [koding](https://koding.com/)
 * [cloud9 IDE](https://c9.io/)
+
+##Browser Security
+
+* [Browser Security Handbook](http://code.google.com/p/browsersec/wiki/Main)
+
 
 ##Backend services for frontend developers
 

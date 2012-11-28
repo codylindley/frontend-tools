@@ -306,6 +306,9 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Browserscope](http://www.browserscope.org/)
 * [HTML5 & CSS3 Support](http://www.findmebyip.com/litmus/)
 * [CSS4-Selectors](http://css4-selectors.com/selectors/)
+* [HTML5 - Information and samples for HTML5 and related APIs](http://robertnyman.com/html5/)
+* [CSS3 - Information and samples](http://robertnyman.com/css3/)
+* [JavaScript tests & Compatibility tables](http://robertnyman.com/javascript/)
 
 ---
 
@@ -454,6 +457,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######JS REPL
 * [repl.it](http://repl.it/)
 * [jsconsole.com](http://jsconsole.com/)
+* [codeboot.org](http://codeboot.org/)
 
 ######JS focused editors
 * [jsfiddle](http://jsfiddle.net/)

@@ -309,6 +309,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [HTML5 - Information and samples for HTML5 and related APIs](http://robertnyman.com/html5/)
 * [CSS3 - Information and samples](http://robertnyman.com/css3/)
 * [JavaScript tests & Compatibility tables](http://robertnyman.com/javascript/)
+* [Cross Browser Handbook Knowledgebase](http://www.crossbrowserbook.com/Knowledge)
 
 ---
 

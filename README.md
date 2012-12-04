@@ -115,10 +115,12 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [transparency](http://leonidas.github.com/transparency/)
 * [plates](https://github.com/flatiron/plates)
 * [mustache](http://mustache.github.com/)
+	* [hogan.js](https://github.com/twitter/hogan.js)
 * [icanhaz](http://icanhazjs.com/)
 * [hogan.js](http://twitter.github.com/hogan.js/)
 * [doT.js](http://olado.github.com/doT/)
 * [underscore](http://underscorejs.org/#template)
+* [mold](https://github.com/idottv/Mold)
 
 ---
 

@@ -101,6 +101,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [curl](https://github.com/cujojs/curl)
 * [shepherd-js](http://xcambar.github.com/shepherd-js/)
 * [UMD (Universal Module Definition)](https://github.com/umdjs/umd)
+	* [UMD-inspired Module Boilerplate](https://gist.github.com/3880415)
 * [Inject](https://github.com/linkedin/inject)
 * [volo](http://volojs.org/)
 * [controlJS](http://controljs.org/)

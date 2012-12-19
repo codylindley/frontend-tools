@@ -461,6 +461,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [repl.it](http://repl.it/)
 * [jsconsole.com](http://jsconsole.com/)
 * [codeboot.org](http://codeboot.org/)
+* [continuum](http://benvie.github.com/continuum/)
 
 ######JS focused editors
 * [jsfiddle](http://jsfiddle.net/)

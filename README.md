@@ -14,7 +14,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [grunt](http://gruntjs.com/)
 	* [lineman](https://github.com/testdouble/lineman)
 	* [yeoman](http://yeoman.io/)
-* [mimosa](http://mimosajs.com/) 
+* [mimosa](http://mimosajs.com/)
 * [codeKit](http://incident57.com/codekit/)
 * [liveReload](http://livereload.com/)
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
@@ -65,7 +65,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
  	* [query](https://github.com/ded/qwery)
 	* [bonzo](https://github.com/ded/bonzo)
 	* [bean](https://github.com/fat/bean)
-	
+
 ---
 
 ######JS Helpers
@@ -256,6 +256,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######Languages Compliling to HTML
 * [jade](http://jade-lang.com/)
 * [haml](https://github.com/haml/haml)
+* [slim](http://slim-lang.com/)
 
 ---
 
@@ -418,7 +419,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Draft Specification for ES.next (Ecma-262 Edition 6)](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts)
 * [es6-shim](https://github.com/paulmillr/es6-shim)
 * [ECMA-262 6th Edition/Draft](http://people.mozilla.org/~jorendorff/es6-draft.html)
- 
+
 ---
 
 ######JavaScript Style/Conventions Guides
@@ -428,7 +429,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html)
 * [jsbeautifier](http://jsbeautifier.org/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
- 
+
 ---
 
 ######General Front-end Practices/Conventions

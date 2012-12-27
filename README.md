@@ -249,6 +249,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######Languages Compiling to JS ([http://altjs.org/](http://altjs.org/))
 * [coffeeScript](http://coffeescript.org/)
+* [IcedCoffeeScript](http://maxtaco.github.com/coffee-script/)
 * [dart](http://www.dartlang.org/)
 * [roy](https://github.com/pufuwozu/roy)
 * [ClojureScript](https://github.com/clojure/clojurescript)
@@ -259,6 +260,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######Languages Compliling to HTML
 * [jade](http://jade-lang.com/)
 * [haml](https://github.com/haml/haml)
+* [blade](https://github.com/bminer/node-blade)
 
 ---
 

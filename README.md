@@ -139,6 +139,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [YUI3 Widgets](http://yuilibrary.com/yui/docs/guides/)
 * [dojo dijits](http://dojotoolkit.org/reference-guide/1.8/dojox/index.html)
 * [jQuery UI](http://jqueryui.com/)
+* [99lime](http://www.99lime.com/)
 
 ---
 
@@ -210,6 +211,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [jslint](http://www.jslint.com/)
 * [jshint](http://www.jshint.com/)
 * [JSLint Error Explanations](http://jslinterrors.com/)
+* [jscomplexity](http://jscomplexity.org/)
 
 ---
 
@@ -330,6 +332,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ---
 
 ######HTML5 & Friends Specs/Ref & Polyfills
+* [webbrowsercompatibility.com](http://www.webbrowsercompatibility.com/)
 * [HTML5 & Friends, from Mozilla](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
 * [html5rocks](http://www.html5rocks.com/en/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
@@ -484,6 +487,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Plunker](https://github.com/filearts/plunker)
 * [cssdeck](http://cssdeck.com/)
 * [codepen](http://codepen.io/)
+* 
 
 ######Browser IDE's
 * [koding](https://koding.com/)

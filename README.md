@@ -142,6 +142,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [dojo dijits](http://dojotoolkit.org/reference-guide/1.8/dojox/index.html)
 * [jQuery UI](http://jqueryui.com/)
 * [99lime](http://www.99lime.com/)
+* [Zino UI](http://zinoui.com/)
+* [JKIT](http://jquery-jkit.com/)
 
 ---
 

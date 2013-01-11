@@ -378,6 +378,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [CSS Compatibility and Internet Explorer](http://msdn.microsoft.com/en-us/library/cc351024\(VS.85\).aspx)
 * [HTML5 Cross Browser Polyfills (look for CSS)](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 * [CSS Selectors from CSS4 till CSS1](http://css4-selectors.com/selectors/)
+* [css3clickchart.com](http://css3clickchart.com/)
 
 ---
 

@@ -263,6 +263,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######Languages Compliling to HTML
 * [jade](http://jade-lang.com/)
 * [haml](https://github.com/haml/haml)
+* [markdown](http://daringfireball.net/projects/markdown/)
+* [slim](http://slim-lang.com/)
 
 ---
 

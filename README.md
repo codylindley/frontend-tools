@@ -20,6 +20,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [liveReload](http://livereload.com/)
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
 * [anvil.js](http://appendto.github.com/anvil.js/)
+* [modjs](http://modulejs.github.com/modjs/)
 
 ---
 

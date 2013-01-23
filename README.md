@@ -503,7 +503,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Plunker](https://github.com/filearts/plunker)
 * [cssdeck](http://cssdeck.com/)
 * [codepen](http://codepen.io/)
-* 
+* [thecodeplayer](http://thecodeplayer.com/)
 
 ######Browser IDE's
 * [koding](https://koding.com/)

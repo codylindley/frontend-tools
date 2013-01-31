@@ -21,6 +21,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
 * [anvil.js](http://appendto.github.com/anvil.js/)
 * [modjs](http://modulejs.github.com/modjs/)
+* [AUTOMATON](http://indigounited.com/automaton/)
 
 ---
 
@@ -88,6 +89,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [wait.js](https://github.com/elving/wait)
 * [Numeral.js](http://numeraljs.com/)
 * [mousestrap](http://craig.is/killing/mice)
+* [accounting.js](http://josscrowcroft.github.com/accounting.js/)
 
 ---
 
@@ -286,6 +288,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [canjs](http://canjs.us/)
 * [spine](http://spinejs.com/)
 * [angularJS](http://angularjs.org/)
+	* [ngmodules.org](http://ngmodules.org/)
 * [maria](http://peter.michaux.ca/maria/)
 * [sparky.js](http://sparkyjs.com/)
 
@@ -509,6 +512,10 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [koding](https://koding.com/)
 * [cloud9 IDE](https://c9.io/)
 
+######JSON editors
+* [jsoneditoronline.org](http://jsoneditoronline.org/)
+
+
 ##Browser Security
 
 * [Browser Security Handbook](http://code.google.com/p/browsersec/wiki/Main)
@@ -517,6 +524,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ##Backend services for frontend developers
 
 * [firebase](https://www.firebase.com/index.html)
+* [jaystack](http://jaystack.com/)
 * [parse](https://www.parse.com)
 * [singly](https://singly.com/)
 * [cloud CMS](https://www.cloudcms.com/)

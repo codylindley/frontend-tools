@@ -507,6 +507,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######JSON editors
 * [jsoneditoronline.org](http://jsoneditoronline.org/)
+* [JSON Tinker](http://json.bubblemix.net/)
 
 
 ##Browser Security

@@ -116,24 +116,18 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ---
 
 ######Templates
+* [handlebars](http://handlebarsjs.com/)
 * [pure](http://beebole.com/pure/)
 * [dust](http://akdubya.github.com/dustjs/)
 * [transparency](http://leonidas.github.com/transparency/)
 * [plates](https://github.com/flatiron/plates)
 * [mustache](http://mustache.github.com/)
 	* [hogan.js](https://github.com/twitter/hogan.js)
-	* [handlebars](http://handlebarsjs.com/)
-	* [icanhaz](http://icanhazjs.com/)
-	* [templayed.js](http://archan937.github.com/templayed.js/)
-	* [mote.js](http://satchmorun.github.com/mote/)
+* [icanhaz](http://icanhazjs.com/)
+* [hogan.js](http://twitter.github.com/hogan.js/)
 * [doT.js](http://olado.github.com/doT/)
 * [underscore](http://underscorejs.org/#template)
 * [mold](https://github.com/idottv/Mold)
-* [dom.js](https://github.com/medikoo/domjs)
-* [ejs](http://embeddedjs.com/)
-* [jade](https://github.com/visionmedia/jade)
-* [jsrender](https://github.com/BorisMoore/jsrender)
-
 
 ---
 
@@ -506,7 +500,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Plunker](https://github.com/filearts/plunker)
 * [cssdeck](http://cssdeck.com/)
 * [codepen](http://codepen.io/)
-* [thecodeplayer](http://thecodeplayer.com/)
 
 ######Browser IDE's
 * [koding](https://koding.com/)

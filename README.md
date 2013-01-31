@@ -29,7 +29,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 * [bower](http://twitter.github.com/bower/)
 * [component](https://github.com/component/component)
-* [ender](http://ender.no.de/)
+* [ender](https://github.com/ender-js/Ender)
 * [jam](http://jamjs.org/)
 
 ---

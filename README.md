@@ -62,6 +62,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [jQuery](http://jquery.com/)
 	*  [jQuery++](http://jquerypp.com/)
 * [zepto](http://zeptojs.com/)
+* [tire](http://tirejs.com/)
 * [mooTools](http://mootools.net/)
 * [DOMAssistant](http://www.domassistant.com/)
 * [Enders The Jeesh](https://github.com/ender-js/jeesh)
@@ -112,6 +113,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [volo](http://volojs.org/)
 * [controlJS](http://controljs.org/)
 * [JAL](https://github.com/tail-f-systems/JAL)
+* [yepnope](http://yepnopejs.com/)
 
 ---
 
@@ -328,6 +330,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [CSS3 - Information and samples](http://robertnyman.com/css3/)
 * [JavaScript tests & Compatibility tables](http://robertnyman.com/javascript/)
 * [Cross Browser Handbook Knowledgebase](http://www.crossbrowserbook.com/Knowledge)
+* [JS-Compatibility-Table](http://compatibility.shwups-cms.ch/de/home/?)
 
 ---
 
@@ -409,6 +412,9 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#Declaration_order)
 * [idiomatic-css](https://github.com/necolas/idiomatic-css)
 * [Object-Oriented CSS](http://oocss.org/)
+* [WordPress.org UI Style Guide](http://dotorgstyleguide.wordpress.com/)
+* [Starbucks Style Guide](http://www.starbucks.com/static/reference/styleguide/)
+* [Github CSS styleguide](https://github.com/styleguide/css)
 
 ---
 

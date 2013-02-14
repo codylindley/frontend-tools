@@ -86,7 +86,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [yepnope](http://yepnopejs.com/)
 * [JSON3](http://bestiejs.github.com/json3/)
 * [uri.js](https://github.com/medialize/URI.js)
-* [moments.js](http://momentjs.com/)
+* [moment.js](http://momentjs.com/)
 * [wait.js](https://github.com/elving/wait)
 * [Numeral.js](http://numeraljs.com/)
 * [mousestrap](http://craig.is/killing/mice)

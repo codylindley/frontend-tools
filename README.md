@@ -150,6 +150,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Zino UI](http://zinoui.com/)
 * [JKIT](http://jquery-jkit.com/)
 * [workless](http://workless.ikreativ.com/)
+* [w2ui](http://w2ui.com/web/)
+
 
 ---
 
@@ -295,6 +297,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [flatiron](http://flatironjs.org/) (requires NodeJS)
 * [batman.js](http://batmanjs.org/) (requires NodeJS)
 * [jsMVC](http://javascriptmvc.com/) (requires Java)
+* [montage](http://montagejs.org/) (requires NodeJS)
 
 ---
 
@@ -388,6 +391,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [HTML5 Cross Browser Polyfills (look for CSS)](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 * [CSS Selectors from CSS4 till CSS1](http://css4-selectors.com/selectors/)
 * [css3clickchart.com](http://css3clickchart.com/)
+* [CSS selectors](http://www.quirksmode.org/css/selectors/)
 
 ---
 

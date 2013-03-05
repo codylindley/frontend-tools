@@ -46,7 +46,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [kube](http://kubeframework.com/)
 * [skeleton](http://www.getskeleton.com/)
 * [baseline](http://baselinecss.com/)
-* [grumby](http://gumbyframework.com)
+* [gumby](http://gumbyframework.com)
 * [Groundwork](http://groundwork.sidereel.com/?url=home)
 
 ---

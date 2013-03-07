@@ -101,6 +101,11 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
+######HTML Helpers
+* [Emmet](https://github.com/sergeche/zen-coding)
+
+---
+
 ######Module/Script Loaders ([Javascript Loaders Comparison](https://spreadsheets.google.com/spreadsheet/lv?key=0Aqln2akPWiMIdERkY3J2OXdOUVJDTkNSQ2ZsV3hoWVE&f=true&noheader=true&gid=2))
 * [require.js](http://requirejs.org/)
 	* [almond](https://github.com/jrburke/almond)
@@ -131,6 +136,11 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [doT.js](http://olado.github.com/doT/)
 * [underscore](http://underscorejs.org/#template)
 * [mold](https://github.com/idottv/Mold)
+
+---
+
+######Animation Frameworks
+* [CSS3 Animations with jQuery.transit](http://ricostacruz.com/jquery.transit/)
 
 ---
 
@@ -463,6 +473,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [isobar](http://isobar-idev.github.com/code-standards/)
 * [Being A Web Developer](http://www.yellowshoe.com.au/standards/)
 * [Front End Dev Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/)
+* [BEM (Block, Element, Modifier)](http://bem.info/)
 
 ##Performance
 

@@ -501,6 +501,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Scriptular](http://scriptular.com/)
 * [regexr](http://gskinner.com/RegExr/)
 * [refiddle](http://refiddle.com/)
+* [RegexPlanet](http://www.regexplanet.com/)
 
 ######HTML/CSS editors
 * [dabblet](http://dabblet.com/)

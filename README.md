@@ -115,6 +115,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [controlJS](http://controljs.org/)
 * [JAL](https://github.com/tail-f-systems/JAL)
 * [yepnope](http://yepnopejs.com/)
+* [AXEL](https://github.com/amol-/axel)
 
 ---
 

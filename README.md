@@ -48,6 +48,10 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [baseline](http://baselinecss.com/)
 * [gumby](http://gumbyframework.com)
 * [Groundwork](http://groundwork.sidereel.com/?url=home)
+* [Blueprint](http://www.blueprintcss.org/)
+* [960 Grid System](http://960.gs/)
+* [Less Framework](http://lessframework.com/)
+* [The Semantic Grid System](http://semantic.gs/)
 
 ---
 

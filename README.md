@@ -39,10 +39,11 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php) or [Front-end CSS frameworks](http://usablica.github.com/front-end-frameworks/compare.html))
+######CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php) or [Front-end CSS frameworks](http://usablica.github.com/front-end-frameworks/compare.html) or [CSS frontend frameworks collection](http://usablica.github.com/front-end-frameworks/compare.html)) 
 
 * [foundation](http://foundation.zurb.com/)
 * [bootstrap](http://twitter.github.com/bootstrap/)
+* [HTML KickStart](http://www.99lime.com/elements/)
 * [kube](http://kubeframework.com/)
 * [skeleton](http://www.getskeleton.com/)
 * [baseline](http://baselinecss.com/)

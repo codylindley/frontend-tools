@@ -39,14 +39,16 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php))
+######CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php) or [Front-end CSS frameworks](http://usablica.github.com/front-end-frameworks/compare.html) or [CSS frontend frameworks collection](http://usablica.github.com/front-end-frameworks/compare.html)) 
 
 * [foundation](http://foundation.zurb.com/)
 * [bootstrap](http://twitter.github.com/bootstrap/)
+* [HTML KickStart](http://www.99lime.com/elements/)
 * [kube](http://kubeframework.com/)
 * [skeleton](http://www.getskeleton.com/)
 * [baseline](http://baselinecss.com/)
-* [grumby](http://gumbyframework.com)
+* [gumby](http://gumbyframework.com)
+* [Groundwork](http://groundwork.sidereel.com/?url=home)
 
 ---
 
@@ -114,6 +116,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [controlJS](http://controljs.org/)
 * [JAL](https://github.com/tail-f-systems/JAL)
 * [yepnope](http://yepnopejs.com/)
+* [AXEL](https://github.com/amol-/axel)
 
 ---
 
@@ -407,6 +410,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [css3maker.com](http://www.css3maker.com/)
 * [CSS3 Sandbox](http://westciv.com/tools/index.html)
 * [The Shapes of Css](http://coderwall.com/p/xrxaxa)
+* [CSS matic](http://www.cssmatic.com/)
 
 ---
 
@@ -514,15 +518,20 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######Browser IDE's
 * [koding](https://koding.com/)
 * [cloud9 IDE](https://c9.io/)
+* [action.io](https://www.action.io)
 
 ######JSON editors
 * [jsoneditoronline.org](http://jsoneditoronline.org/)
 * [JSON Tinker](http://json.bubblemix.net/)
-
+* [JSONmat](http://jsonmate.com/)
 
 ##Browser Security
 
 * [Browser Security Handbook](http://code.google.com/p/browsersec/wiki/Main)
+
+##Browser Hacks
+
+* [browserhacks.com](http://www.browserhacks.com/)
 
 
 ##Backend services for frontend developers
@@ -537,6 +546,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [cloudmine](https://cloudmine.me/)
 * [kumulos](http://www.kumulos.com/)
 * [deployd](http://deployd.com/)
+* [backlift.com](https://backlift.com/index.html)
 
 
 

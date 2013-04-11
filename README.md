@@ -93,6 +93,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Numeral.js](http://numeraljs.com/)
 * [mousestrap](http://craig.is/killing/mice)
 * [accounting.js](http://josscrowcroft.github.com/accounting.js/)
+* [Upcast](https://github.com/rowanmanning/upcast)
 
 ---
 

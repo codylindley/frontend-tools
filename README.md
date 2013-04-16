@@ -467,6 +467,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [isobar](http://isobar-idev.github.com/code-standards/)
 * [Being A Web Developer](http://www.yellowshoe.com.au/standards/)
 * [Front End Dev Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/)
+* [HTML and CSS code guide](https://github.com/mdo/code-guide)
 
 ##Performance
 

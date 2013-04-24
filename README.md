@@ -78,6 +78,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######JS Helpers
 * [lo-dash](http://lodash.com/)
 * [string.js](http://stringjs.com/)
+* [boiler.js](http://www.boilerjs.com/)
 * [underscore](http://underscorejs.org/)
 	* [underscore.string](http://epeli.github.com/underscore.string/)
 * [sugar.js](http://sugarjs.com/)

@@ -552,6 +552,14 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [deployd](http://deployd.com/)
 * [backlift.com](https://backlift.com/index.html)
 
+##API tools
+
+* [apiary](http://apiary.io/)
+* [mocky.io](http://www.mocky.io/)
+
+
+
+
 
 
 

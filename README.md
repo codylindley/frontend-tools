@@ -95,6 +95,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [mousestrap](http://craig.is/killing/mice)
 * [accounting.js](http://josscrowcroft.github.com/accounting.js/)
 * [Upcast](https://github.com/rowanmanning/upcast)
+* [taffydb](http://www.taffydb.com/)
 
 ---
 
@@ -119,6 +120,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [JAL](https://github.com/tail-f-systems/JAL)
 * [yepnope](http://yepnopejs.com/)
 * [AXEL](https://github.com/amol-/axel)
+* [lmd](http://lmdjs.org/)
+* [LazyJS](http://bevacqua.github.io/lazyjs/)
 
 ---
 
@@ -272,7 +275,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Languages Compliling to HTML
+######Languages Compiling to HTML
 * [jade](http://jade-lang.com/)
 * [haml](https://github.com/haml/haml)
 * [markdown](http://daringfireball.net/projects/markdown/)

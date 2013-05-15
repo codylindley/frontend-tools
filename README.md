@@ -9,27 +9,27 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######Workflow/Builds/Assemblers
 
-* [lumbar](http://walmartlabs.github.com/lumbar/)
+* [lumbar](http://walmartlabs.github.io/lumbar/)
 * [brunch](http://brunch.io/)
 * [grunt](http://gruntjs.com/)
 	* [lineman](https://github.com/testdouble/lineman)
 	* [yeoman](http://yeoman.io/)
-	* [gruntstart](http://tsvensen.github.com/GruntStart/)
+	* [gruntstart](http://tsvensen.github.io/GruntStart/)
 * [mimosa](http://mimosajs.com/) 
 * [codeKit](http://incident57.com/codekit/)
 * [liveReload](http://livereload.com/)
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
-* [anvil.js](http://appendto.github.com/anvil.js/)
-* [modjs](http://modulejs.github.com/modjs/)
+* [anvil.js](http://appendto.github.io/anvil.js/)
+* [modjs](http://modulejs.github.io/modjs/)
 * [AUTOMATON](http://indigounited.com/automaton/)
 
 ---
 
 ######Browser Package Managers (checkout: [Front-End Package Manager Comparison](https://github.com/wilmoore/frontend-packagers))
 
-* [bower](http://twitter.github.com/bower/)
+* [bower](http://bower.io)
 * [component](https://github.com/component/component)
-* [ender](http://ender.no.de/)
+* [ender](http://ender.jit.su/)
 * [jam](http://jamjs.org/)
 
 ---
@@ -39,12 +39,12 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php) or [Front-end CSS frameworks](http://usablica.github.com/front-end-frameworks/compare.html) or [CSS frontend frameworks collection](http://usablica.github.com/front-end-frameworks/compare.html)) 
+######CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php) or [Front-end CSS frameworks](http://usablica.github.com/front-end-frameworks/compare.html)) 
 
 * [foundation](http://foundation.zurb.com/)
 * [bootstrap](http://twitter.github.com/bootstrap/)
 * [HTML KickStart](http://www.99lime.com/elements/)
-* [kube](http://kubeframework.com/)
+* [kube](http://imperavi.com/kube/)
 * [skeleton](http://www.getskeleton.com/)
 * [baseline](http://baselinecss.com/)
 * [gumby](http://gumbyframework.com)
@@ -55,7 +55,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######HTML Base/Boilerplate
 
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
-* [320 and up](http://stuffandnonsense.co.uk/projects/320andup/)
+* [Rock Hammer](http://stuffandnonsense.co.uk/projects/rock-hammer/)
 * [html5bones](http://html5bones.com/)
 
 ---
@@ -80,27 +80,27 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [string.js](http://stringjs.com/)
 * [boiler.js](http://www.boilerjs.com/)
 * [underscore](http://underscorejs.org/)
-	* [underscore.string](http://epeli.github.com/underscore.string/)
+	* [underscore.string](http://epeli.github.io/underscore.string/)
 * [sugar.js](http://sugarjs.com/)
 * [craft.js](http://craftjs.org/)
 * [valentine](https://github.com/ded/valentine)
-* [platform.js](https://github.com/bestiejs/platform.js#readme)
+* [platform.js](https://github.com/bestiejs/platform.js)
 * [modernizr](http://modernizr.com/)
 	* [yepnope](http://yepnopejs.com/)
-* [JSON3](http://bestiejs.github.com/json3/)
+* [JSON3](http://bestiejs.github.io/json3/)
 * [uri.js](https://github.com/medialize/URI.js)
 * [moment.js](http://momentjs.com/)
 * [wait.js](https://github.com/elving/wait)
 * [Numeral.js](http://numeraljs.com/)
 * [mousestrap](http://craig.is/killing/mice)
-* [accounting.js](http://josscrowcroft.github.com/accounting.js/)
+* [accounting.js](http://josscrowcroft.github.io/accounting.js/)
 * [Upcast](https://github.com/rowanmanning/upcast)
 * [taffydb](http://www.taffydb.com/)
 
 ---
 
 ######CSS Helpers
-* [-prefix-free](http://leaverou.github.com/prefixfree/)
+* [-prefix-free](http://leaverou.github.io/prefixfree/)
 * [CSScomb](http://csscomb.com)
 
 ---
@@ -111,7 +111,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [cajon](https://github.com/requirejs/cajon)
 * [browserify](https://github.com/substack/node-browserify)
 * [curl](https://github.com/cujojs/curl)
-* [shepherd-js](http://xcambar.github.com/shepherd-js/)
+* [shepherd-js](http://xcambar.github.io/shepherd-js/)
 * [UMD (Universal Module Definition)](https://github.com/umdjs/umd)
 	* [UMD-inspired Module Boilerplate](https://gist.github.com/3880415)
 * [Inject](https://github.com/linkedin/inject)
@@ -128,14 +128,13 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######Templates
 * [handlebars](http://handlebarsjs.com/)
 * [pure](http://beebole.com/pure/)
-* [dust](http://akdubya.github.com/dustjs/)
-* [transparency](http://leonidas.github.com/transparency/)
+* [dust](http://akdubya.github.io/dustjs/)
+* [transparency](http://leonidas.github.io/transparency/)
 * [plates](https://github.com/flatiron/plates)
 * [mustache](http://mustache.github.com/)
-	* [hogan.js](https://github.com/twitter/hogan.js)
+	* [hogan.js](http://twitter.github.io/hogan.js/)
 * [icanhaz](http://icanhazjs.com/)
-* [hogan.js](http://twitter.github.com/hogan.js/)
-* [doT.js](http://olado.github.com/doT/)
+* [doT.js](http://olado.github.io/doT/)
 * [underscore](http://underscorejs.org/#template)
 * [mold](https://github.com/idottv/Mold)
 
@@ -214,7 +213,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [docco](http://jashkenas.github.com/docco/)
 	* [docco-husky](https://github.com/mbrevoort/docco-husky)
 * [jsduck](https://github.com/senchalabs/jsduck)
-* [jsdoc](http://code.google.com/p/jsdoc-toolkit/)
+* [jsdoc](https://github.com/jsdoc3/jsdoc)
 * [node-jsdoc-toolkit](https://github.com/p120ph37/node-jsdoc-toolkit)
 * [dox](https://github.com/visionmedia/dox)
 	* [markdox](https://github.com/cbou/markdox)
@@ -250,7 +249,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######CSS Optimizer/Minification/Compression Tools
 * [ycssmin](https://github.com/yui/ycssmin)
-* [CSSO](https://github.com/css/csso)
+* [CSSO](http://css.github.io/csso/)
 
 ---
 

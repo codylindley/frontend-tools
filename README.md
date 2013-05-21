@@ -556,6 +556,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [kumulos](http://www.kumulos.com/)
 * [deployd](http://deployd.com/)
 * [backlift.com](https://backlift.com/index.html)
+* [hull.io](http://hull.io/)
 
 ##API tools
 

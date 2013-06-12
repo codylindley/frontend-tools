@@ -126,7 +126,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Templates
+######Templates ([template chooser](http://garann.github.io/template-chooser))
 * [handlebars](http://handlebarsjs.com/)
 * [pure](http://beebole.com/pure/)
 * [dust](http://akdubya.github.io/dustjs/)
@@ -166,7 +166,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######Test Runners
 
 * [testem](https://github.com/airportyh/testem)
-* [testacular](http://vojtajina.github.com/testacular/)
+* [Karma](http://karma-runner.github.io/0.8/index.html)
+* [intern](http://theintern.io/)
 
 ---
 

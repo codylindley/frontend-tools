@@ -51,6 +51,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Groundwork](http://groundwork.sidereel.com/?url=home)
 * [topcoat](http://topcoat.io/)
 * [purecss](http://purecss.io/)
+* [tuktuk](http://tuktuk.tapquo.com/)
 
 ---
 
@@ -94,10 +95,24 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [moment.js](http://momentjs.com/)
 * [wait.js](https://github.com/elving/wait)
 * [Numeral.js](http://numeraljs.com/)
-* [mousestrap](http://craig.is/killing/mice)
 * [accounting.js](http://josscrowcroft.github.io/accounting.js/)
 * [Upcast](https://github.com/rowanmanning/upcast)
 * [taffydb](http://www.taffydb.com/)
+* [communist](http://communistjs.com/)
+
+---
+
+######Key Helpers
+* [keys.js](https://github.com/bitwalker/keys.js)
+* [mousestrap](http://craig.is/killing/mice)
+
+---
+
+######Event (mouse/touch/pointer) Helpers
+* [pointer.js](https://github.com/mozilla/pointer.js)
+* [thumbs.js](http://mwbrooks.github.io/thumbs.js/)
+* [Hammer.js](https://github.com/EightMedia/hammer.js)
+* [Event.js](https://github.com/mudcube/Event.js)
 
 ---
 
@@ -240,6 +255,11 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######CSS Quality Validators
 * [csslint](http://csslint.net/)
 * [recess](http://twitter.github.com/recess)
+
+---
+
+######HTML Quality Validators
+* [html-inspector](https://github.com/philipwalton/html-inspector)
 
 ---
 
@@ -565,6 +585,16 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 * [apiary](http://apiary.io/)
 * [mocky.io](http://www.mocky.io/)
+
+##JSON Query Tools
+
+* [TaffyDB](http://www.taffydb.com/)
+* [linq.js](http://linqjs.codeplex.com/)
+* [json:select()](http://jsonselect.org/)
+* [JSONiq](http://www.jsoniq.org/)
+* [json-query](https://github.com/mmckegg/json-query)
+* [SpahQL](http://danski.github.io/spahql/)
+
 
 
 

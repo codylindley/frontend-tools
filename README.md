@@ -19,7 +19,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [codeKit](http://incident57.com/codekit/)
 * [liveReload](http://livereload.com/)
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
-* [anvil.js](http://appendto.github.io/anvil.js/)
+* [anvil.js](https://github.com/anviljs/anvil.js/)
 * [modjs](http://modulejs.github.io/modjs/)
 * [AUTOMATON](http://indigounited.com/automaton/)
 

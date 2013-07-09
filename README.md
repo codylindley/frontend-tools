@@ -52,6 +52,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [topcoat](http://topcoat.io/)
 * [purecss](http://purecss.io/)
 * [tuktuk](http://tuktuk.tapquo.com/)
+* [Metro UI CSS](http://metroui.org.ua/)
 
 ---
 
@@ -60,6 +61,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [Rock Hammer](http://stuffandnonsense.co.uk/projects/rock-hammer/)
 * [html5bones](http://html5bones.com/)
+* [dCodes](http://www.dcodes.net/2/docs/index.html)
 
 ---
 
@@ -175,6 +177,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [JKIT](http://jquery-jkit.com/)
 * [workless](http://workless.ikreativ.com/)
 * [w2ui](http://w2ui.com/web/)
+* [basis.js](http://basisjs.com/)
 
 
 ---
@@ -320,6 +323,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [maria](http://peter.michaux.ca/maria/)
 * [sparky.js](http://sparkyjs.com/)
 * [hoodie](http://hood.ie/)
+* [lure.js](http://tylerbuchea.com/projects/lure/#/)
 
 ---
 
@@ -580,11 +584,13 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [deployd](http://deployd.com/)
 * [backlift.com](https://backlift.com/index.html)
 * [hull.io](http://hull.io/)
+* [stormpath.com](http://stormpath.com/)
 
 ##API tools
 
 * [apiary](http://apiary.io/)
 * [mocky.io](http://www.mocky.io/)
+* [FillText.com](http://www.filltext.com/)
 
 ##JSON Query Tools
 
@@ -594,6 +600,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [JSONiq](http://www.jsoniq.org/)
 * [json-query](https://github.com/mmckegg/json-query)
 * [SpahQL](http://danski.github.io/spahql/)
+
+
 
 
 

@@ -574,6 +574,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ##Backend services for frontend developers
 
 * [firebase](https://www.firebase.com/index.html)
+* [pusher](http://pusher.com/)
 * [jaystack](http://jaystack.com/)
 * [parse](https://www.parse.com)
 * [singly](https://singly.com/)

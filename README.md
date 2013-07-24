@@ -125,6 +125,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######CSS Helpers
 * [-prefix-free](http://leaverou.github.io/prefixfree/)
 * [CSScomb](http://csscomb.com)
+* [autoprefixer](https://github.com/ai/autoprefixer)
 
 ---
 

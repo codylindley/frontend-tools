@@ -118,6 +118,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [thumbs.js](http://mwbrooks.github.io/thumbs.js/)
 * [Hammer.js](https://github.com/EightMedia/hammer.js)
 * [Event.js](https://github.com/mudcube/Event.js)
+* [DeepTissue.js](http://deeptissuejs.com)
 
 ---
 

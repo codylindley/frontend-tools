@@ -53,6 +53,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [purecss](http://purecss.io/)
 * [tuktuk](http://tuktuk.tapquo.com/)
 * [Metro UI CSS](http://metroui.org.ua/)
+* [workless](http://workless.ikreativ.com/)
+* [99lime](http://www.99lime.com/)
 
 ---
 
@@ -82,6 +84,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######JS Helpers
 * [lo-dash](http://lodash.com/)
+* [lazy.js](http://danieltao.com/lazy.js/)
 * [string.js](http://stringjs.com/)
 * [boiler.js](http://www.boilerjs.com/)
 * [underscore](http://underscorejs.org/)
@@ -166,18 +169,17 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [extJS](http://www.sencha.com/products/extjs/examples/)
 * [kendoUI](http://www.kendoui.com/)
 * [qooxdoo](http://qooxdoo.org/)
-* [boostrap components & javascript](http://twitter.github.com/bootstrap/javascript.html)
+* [bootstrap components & javascript](http://twitter.github.com/bootstrap/javascript.html)
 	* [Fuel UX](http://exacttarget.github.com/fuelux/)
 * [wijmo](http://wijmo.com/)
 * [YUI3 Widgets](http://yuilibrary.com/yui/docs/guides/)
-* [dojo dijits](http://dojotoolkit.org/reference-guide/1.8/dojox/index.html)
+* [dojo dijits](http://dojotoolkit.org/reference-guide/1.8/dijit/index.html)
 * [jQuery UI](http://jqueryui.com/)
-* [99lime](http://www.99lime.com/)
 * [Zino UI](http://zinoui.com/)
 * [JKIT](http://jquery-jkit.com/)
-* [workless](http://workless.ikreativ.com/)
 * [w2ui](http://w2ui.com/web/)
 * [basis.js](http://basisjs.com/)
+* [webix](http://docs.webix.com/)
 
 
 ---
@@ -369,6 +371,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [JavaScript tests & Compatibility tables](http://robertnyman.com/javascript/)
 * [Cross Browser Handbook Knowledgebase](http://www.crossbrowserbook.com/Knowledge)
 * [JS-Compatibility-Table](http://compatibility.shwups-cms.ch/de/home/?)
+* [webbrowsercompatibility](http://www.webbrowsercompatibility.com/)
 
 ---
 
@@ -455,6 +458,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [WordPress.org UI Style Guide](http://dotorgstyleguide.wordpress.com/)
 * [Starbucks Style Guide](http://www.starbucks.com/static/reference/styleguide/)
 * [Github CSS styleguide](https://github.com/styleguide/css)
+* [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines)
 
 ---
 

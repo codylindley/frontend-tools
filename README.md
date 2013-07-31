@@ -79,6 +79,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
  	* [query](https://github.com/ded/qwery)
 	* [bonzo](https://github.com/ded/bonzo)
 	* [bean](https://github.com/fat/bean)
+* [rye](http://ryejs.com/)
+* [dom](https://github.com/component/dom)
 	
 ---
 
@@ -146,6 +148,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [AXEL](https://github.com/amol-/axel)
 * [lmd](http://lmdjs.org/)
 * [LazyJS](http://bevacqua.github.io/lazyjs/)
+* [jspm.io](http://jspm.io/)
 
 ---
 
@@ -608,6 +611,13 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [JSONiq](http://www.jsoniq.org/)
 * [json-query](https://github.com/mmckegg/json-query)
 * [SpahQL](http://danski.github.io/spahql/)
+
+##Front-end DB's
+
+* [pouchdb](http://pouchdb.com/)
+* [Web Storage](http://www.w3.org/TR/webstorage/)
+* [Indexed Database API](http://www.w3.org/TR/IndexedDB/)
+
 
 
 

@@ -186,7 +186,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [basis.js](http://basisjs.com/)
 * [webix](http://docs.webix.com/)
 
-
 ---
 
 ######Test Runners
@@ -312,6 +311,16 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [haml](https://github.com/haml/haml)
 * [markdown](http://daringfireball.net/projects/markdown/)
 * [slim](http://slim-lang.com/)
+
+---
+
+######Routers
+
+* [crossroads.js](http://millermedeiros.github.io/crossroads.js/)
+* [davis.js](http://davisjs.com/)
+* [Routie](http://projects.jga.me/routie/)
+* [director](https://github.com/flatiron/director)
+
 
 ---
 

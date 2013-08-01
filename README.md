@@ -367,6 +367,11 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [qooxdoo](http://qooxdoo.org/)
 * [google closure](https://developers.google.com/closure/)
 
+######Front End Application monitoring
+
+* [Caliper](http://caliper.io)
+
+---
 
 ##Reference/Guide/Polyfill/Generator Tools
 

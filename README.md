@@ -170,6 +170,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######UI Widgets ([comparison](http://uiwidgets.t7interactive.com/))
 * [chico-ui](http://chico-ui.com.ar/)
+* [css-modal](https://github.com/drublic/css-modal)
 * [google closure](http://closure-library.googlecode.com/svn/trunk/closure/goog/demos/index.html)
 * [DHTMLX](http://dhtmlx.com/)
 * [extJS](http://www.sencha.com/products/extjs/examples/)

@@ -186,6 +186,9 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [w2ui](http://w2ui.com/web/)
 * [basis.js](http://basisjs.com/)
 * [webix](http://docs.webix.com/)
+* [alloyui](http://alloyui.com/)
+* [JavaScript (from sync fusion)](http://www.syncfusion.com/products/javascript)
+* [jQWidgets](http://www.jqwidgets.com/)
 
 ---
 
@@ -634,7 +637,13 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Indexed Database API](http://www.w3.org/TR/IndexedDB/)
 
 
+##Catalog/Collection of JavaScript Libs and Tools
 
+* [jster](http://jster.net/)
+* [thetoolbox.cc](http://thetoolbox.cc/)
+* [javascriptoo.com](http://www.javascriptoo.com/)
+* [microjs.com](http://microjs.com/)
+* [JSDB.IO](http://www.jsdb.io/?sort=trending)
 
 
 

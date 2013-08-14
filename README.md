@@ -340,6 +340,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [spine](http://spinejs.com/)
 * [angularJS](http://angularjs.org/)
 	* [ngmodules.org](http://ngmodules.org/)
+* [reactive.coffee](http://yang.github.io/reactive-coffee/)
 * [maria](http://peter.michaux.ca/maria/)
 * [sparky.js](http://sparkyjs.com/)
 * [hoodie](http://hood.ie/)

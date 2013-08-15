@@ -106,7 +106,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [accounting.js](http://josscrowcroft.github.io/accounting.js/)
 * [Upcast](https://github.com/rowanmanning/upcast)
 * [taffydb](http://www.taffydb.com/)
-* [communist](http://communistjs.com/)
+* [catiline.js](http://catilinejs.com)
 
 ---
 

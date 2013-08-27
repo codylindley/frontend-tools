@@ -15,7 +15,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [lineman](https://github.com/testdouble/lineman)
 	* [yeoman](http://yeoman.io/)
 	* [Takeoff](http://tsvensen.github.io/Takeoff/)
-* [mimosa](http://mimosa.io/)
+* [mimosa](http://mimosajs.com/) 
 * [codeKit](http://incident57.com/codekit/)
 * [liveReload](http://livereload.com/)
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
@@ -39,7 +39,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php) or [Front-end CSS frameworks](http://usablica.github.com/front-end-frameworks/compare.html))
+######CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php) or [Front-end CSS frameworks](http://usablica.github.com/front-end-frameworks/compare.html)) 
 
 * [foundation](http://foundation.zurb.com/)
 * [bootstrap](http://twitter.github.com/bootstrap/)
@@ -82,7 +82,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [bean](https://github.com/fat/bean)
 * [rye](http://ryejs.com/)
 * [dom](https://github.com/component/dom)
-
+	
 ---
 
 ######JS Helpers
@@ -106,7 +106,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [accounting.js](http://josscrowcroft.github.io/accounting.js/)
 * [Upcast](https://github.com/rowanmanning/upcast)
 * [taffydb](http://www.taffydb.com/)
-* [catiline.js](http://catilinejs.com)
+* [communist](http://communistjs.com/)
 
 ---
 
@@ -469,6 +469,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [CSS3 Sandbox](http://westciv.com/tools/index.html)
 * [The Shapes of Css](http://coderwall.com/p/xrxaxa)
 * [CSS matic](http://www.cssmatic.com/)
+* [extractcss.com](http://extractcss.com/)
 
 ---
 
@@ -507,7 +508,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Draft Specification for ES.next (Ecma-262 Edition 6)](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts)
 * [es6-shim](https://github.com/paulmillr/es6-shim)
 * [ECMA-262 6th Edition/Draft](http://people.mozilla.org/~jorendorff/es6-draft.html)
-
+* [ECMAScript Support Matrix](http://pointedears.de/scripts/test/es-matrix/)
+ 
 ---
 
 ######JavaScript Style/Conventions Guides
@@ -614,6 +616,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [backlift.com](https://backlift.com/index.html)
 * [hull.io](http://hull.io/)
 * [stormpath.com](http://stormpath.com/)
+* [dreamfactory](https://www.dreamfactory.com/)
 
 ##API tools
 

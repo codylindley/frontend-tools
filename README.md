@@ -15,7 +15,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [lineman](https://github.com/testdouble/lineman)
 	* [yeoman](http://yeoman.io/)
 	* [Takeoff](http://tsvensen.github.io/Takeoff/)
-* [mimosa](http://mimosajs.com/) 
+* [mimosa](http://mimosajs.io/) 
 * [codeKit](http://incident57.com/codekit/)
 * [liveReload](http://livereload.com/)
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
@@ -108,7 +108,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [accounting.js](http://josscrowcroft.github.io/accounting.js/)
 * [Upcast](https://github.com/rowanmanning/upcast)
 * [taffydb](http://www.taffydb.com/)
-* [communist](http://communistjs.com/)
+* [Catiline.js](http://Catilinejs.com/)
 
 ---
 

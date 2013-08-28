@@ -22,6 +22,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [anvil.js](https://github.com/anviljs/anvil.js/)
 * [modjs](http://modulejs.github.io/modjs/)
 * [AUTOMATON](http://indigounited.com/automaton/)
+* [volo](http://volojs.org/)
 
 ---
 
@@ -31,6 +32,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [component](https://github.com/component/component)
 * [ender](http://ender.jit.su/)
 * [jam](http://jamjs.org/)
+* [volo](http://volojs.org/)
 
 ---
 
@@ -142,7 +144,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [UMD (Universal Module Definition)](https://github.com/umdjs/umd)
 	* [UMD-inspired Module Boilerplate](https://gist.github.com/3880415)
 * [Inject](https://github.com/linkedin/inject)
-* [volo](http://volojs.org/)
 * [controlJS](http://controljs.org/)
 * [JAL](https://github.com/tail-f-systems/JAL)
 * [yepnope](http://yepnopejs.com/)

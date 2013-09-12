@@ -520,6 +520,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html)
 * [jsbeautifier](http://jsbeautifier.org/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [Meteor Style Guide](https://github.com/meteor/meteor/wiki/Meteor-Style-Guide)
 
 ---
 

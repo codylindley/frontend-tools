@@ -58,6 +58,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [workless](http://workless.ikreativ.com/)
 * [99lime](http://www.99lime.com/)
 * [ink] (http://ink.sapo.pt/)
+* [Semantic UI](http://semantic-ui.com/)
 
 ---
 

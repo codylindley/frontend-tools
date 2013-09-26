@@ -250,6 +250,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [node-jsdoc-toolkit](https://github.com/p120ph37/node-jsdoc-toolkit)
 * [dox](https://github.com/visionmedia/dox)
 	* [markdox](https://github.com/cbou/markdox)
+	* [dox-foundation](https://github.com/punkave/dox-foundation)
 
 ---
 

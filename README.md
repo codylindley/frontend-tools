@@ -55,6 +55,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [purecss](http://purecss.io/)
 * [tuktuk](http://tuktuk.tapquo.com/)
 * [Metro UI CSS](http://metroui.org.ua/)
+* [Flat UI Kit](http://designmodo.github.io/Flat-UI/)
 * [workless](http://workless.ikreativ.com/)
 * [99lime](http://www.99lime.com/)
 * [ink] (http://ink.sapo.pt/)

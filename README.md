@@ -304,6 +304,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [less](http://lesscss.org)
 	* [LESS Elements](http://lesselements.com/): Mixins library for LESS
 	* [Semantic.gs](http://semantic.gs/): Semantic CSS grid system
+* [Absurd](http://krasimir.github.io/absurd/#client-side-tests)
 
 ######Languages Compiling to JS ([http://altjs.org/](http://altjs.org/))
 * [coffeeScript](http://coffeescript.org/)
@@ -328,6 +329,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [davis.js](http://davisjs.com/)
 * [Routie](http://projects.jga.me/routie/)
 * [director](https://github.com/flatiron/director)
+* [Finch.js](http://stoodder.github.io/finchjs/)
 
 
 ---
@@ -643,6 +645,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [pouchdb](http://pouchdb.com/)
 * [Web Storage](http://www.w3.org/TR/webstorage/)
 * [Indexed Database API](http://www.w3.org/TR/IndexedDB/)
+* [lokiJS](http://lokijs.org/)
 
 
 ##Catalog/Collection of JavaScript Libs and Tools

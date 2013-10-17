@@ -21,6 +21,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
 * [anvil.js](https://github.com/anviljs/anvil.js/)
 * [modjs](http://modulejs.github.io/modjs/)
+* [nodefront](http://karthikv.github.com/nodefront/)
 * [AUTOMATON](http://indigounited.com/automaton/)
 * [volo](http://volojs.org/)
 

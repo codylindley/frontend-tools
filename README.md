@@ -195,27 +195,54 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Test Runners
+######Testing Frameworks
 
 * [testem](https://github.com/airportyh/testem)
 * [Karma](http://karma-runner.github.io/0.8/index.html)
 * [intern](http://theintern.io/)
+* [buster.js](http://busterjs.org/)
 
 ---
 
-######User Automated Testing
+######Browser Testing & Browser Automated Testing & Browser Screen Captures
 
 * [casperJS](http://casperjs.org/)
+* [Selenium](http://www.seleniumhq.org/)
+* [phantomJS](http://phantomjs.org/)
+* [saucelabs](https://saucelabs.com)
+* [browserstack](http://www.browserstack.com/)
+* [browserling](https://browserling.com/)
+* [DalekJS](http://dalekjs.com/)
+* [testling-ci](http://ci.testling.com/)
 
 ---
 
-######Testing Frameworks
+######Tests Runners
 
 * [mocha](http://visionmedia.github.com/mocha/)
-* [buster.js](http://busterjs.org/)
 * [qunit](http://qunitjs.com/)
 * [jasmine](http://pivotal.github.com/jasmine/)
-* [expect.js](https://github.com/LearnBoost/expect.js)
+
+---
+
+######Test spies, stubs and mocks
+
+* [sinon.js](http://sinonjs.org/)
+
+---
+
+######Code Coverage
+
+* [istanbul](http://gotwarlost.github.io/istanbul/)
+* [blanket.js](http://blanketjs.org/)
+* [coveralls](https://coveralls.io/)
+
+---
+
+######Code Complexity & Reports
+
+* [jscomplexity](http://jscomplexity.org/)
+* [plato](https://github.com/es-analysis/plato)
 
 ---
 
@@ -224,14 +251,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [chai](http://chaijs.com/)
 * [should](https://github.com/visionmedia/should.js)
 * [expect](https://github.com/LearnBoost/expect.js)
-
----
-
-######Remote DOM and JS Testing
-* [browserstack](http://www.browserstack.com/)
-* [browserling/testling](https://browserling.com/)
-* [selenium](http://seleniumhq.org/)
-* [JS test driver](http://code.google.com/p/js-test-driver/)
 
 ---
 
@@ -277,6 +296,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######HTML Quality Validators
 * [html-inspector](https://github.com/philipwalton/html-inspector)
+* [htmlHint](http://htmlhint.com/)
 
 ---
 
@@ -628,8 +648,19 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ##API tools
 
 * [apiary](http://apiary.io/)
+* [api engine](https://apiengine.io/)
+* [Swagger](https://developers.helloreverb.com/swagger/)
+
+##API Mocking
+
 * [mocky.io](http://www.mocky.io/)
 * [FillText.com](http://www.filltext.com/)
+* [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+
+##Image Mocking
+
+* [placekitten](http://placekitten.com/)
+* [PLACEHOLD.IT](http://placehold.it/)
 
 ##JSON Query Tools
 

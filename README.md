@@ -112,6 +112,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Upcast](https://github.com/rowanmanning/upcast)
 * [taffydb](http://www.taffydb.com/)
 * [Catiline.js](http://Catilinejs.com/)
+* [XRegExp](http://xregexp.com/)
 
 ---
 
@@ -450,6 +451,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [D3.js](http://d3js.org/)
 	* [raphaeljs](http://raphaeljs.com/)
 	* [bonsaijs.org](http://bonsaijs.org/)
+	* [snapsvg.io](http://snapsvg.io/)
 * [Canvas](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
 	* [paper.js](http://paperjs.org/)
 	* [fabric.js](http://fabricjs.com/)
@@ -629,7 +631,13 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [browserhacks.com](http://www.browserhacks.com/)
 
 
-##Backend services for frontend developers
+##API first, CMS Service
+
+* [contentful](https://www.contentful.com)
+* [prismic.io](https://prismic.io)
+
+
+##Backend services for front-end developers
 
 * [firebase](https://www.firebase.com/index.html)
 * [pusher](http://pusher.com/)

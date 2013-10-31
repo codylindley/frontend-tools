@@ -170,6 +170,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [doT.js](http://olado.github.io/doT/)
 * [underscore](http://underscorejs.org/#template)
 * [mold](https://github.com/idottv/Mold)
+* [nunjucks](http://jlongster.github.io/nunjucks/)
 
 ---
 
@@ -386,7 +387,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ---
 
 ######Full Stack Application Structure/Frameworks
-* [tower.js](http://towerjs.org/) (requires NodeJS)
 * [wakanda](http://www.wakanda.org/)
 * [meteor](http://www.meteor.com/)
 
@@ -608,6 +608,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Plunker](https://github.com/filearts/plunker)
 * [cssdeck](http://cssdeck.com/)
 * [codepen](http://codepen.io/)
+* [liveweave](http://liveweave.com/)
 
 ######Execute/Test live code
 * [runnable](http://runnable.com/)
@@ -696,6 +697,12 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [javascriptoo.com](http://www.javascriptoo.com/)
 * [microjs.com](http://microjs.com/)
 * [JSDB.IO](http://www.jsdb.io/?sort=trending)
+
+
+##Static Site Generators
+
+* [http://staticsitegenerators.net/](http://staticsitegenerators.net/)
+
 
 
 

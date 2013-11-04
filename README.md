@@ -117,9 +117,10 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Key Helpers
+######Keyboard Helpers
 * [keys.js](https://github.com/bitwalker/keys.js)
 * [mousestrap](http://craig.is/killing/mice)
+* [Keypress](http://dmauro.github.io/Keypress/)
 
 ---
 

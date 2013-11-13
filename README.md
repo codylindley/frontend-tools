@@ -663,6 +663,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [apiary](http://apiary.io/)
 * [api engine](https://apiengine.io/)
 * [Swagger](https://developers.helloreverb.com/swagger/)
+* [postman](http://www.getpostman.com/)
 
 ##API Mocking
 

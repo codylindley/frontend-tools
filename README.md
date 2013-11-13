@@ -683,6 +683,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [JSONiq](http://www.jsoniq.org/)
 * [json-query](https://github.com/mmckegg/json-query)
 * [SpahQL](http://danski.github.io/spahql/)
+* [json-mask](https://github.com/nemtsov/json-mask)
 
 ##Front-end DB's
 

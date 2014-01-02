@@ -114,6 +114,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [taffydb](http://www.taffydb.com/)
 * [Catiline.js](http://Catilinejs.com/)
 * [XRegExp](http://xregexp.com/)
+* [duckyjs](http://duckyjs.com/)
+* [mathjs](http://mathjs.org/)
 
 ---
 

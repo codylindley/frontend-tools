@@ -15,6 +15,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [lineman](https://github.com/testdouble/lineman)
 	* [yeoman](http://yeoman.io/)
 	* [Takeoff](http://tsvensen.github.io/Takeoff/)
+* [gulpjs](http://gulpjs.com/)
 * [mimosa](http://mimosa.io/) 
 * [codeKit](http://incident57.com/codekit/)
 * [liveReload](http://livereload.com/)
@@ -378,6 +379,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [sparky.js](http://sparkyjs.com/)
 * [hoodie](http://hood.ie/)
 * [lure.js](http://tylerbuchea.com/projects/lure/#/)
+* [riot.js](https://github.com/moot/riotjs/)
 
 ---
 

@@ -160,6 +160,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [lmd](http://lmdjs.org/)
 * [LazyJS](http://bevacqua.github.io/lazyjs/)
 * [jspm.io](http://jspm.io/)
+* [lazy.js](https://github.com/mercadolibre/lazy.js)
 
 ---
 
@@ -222,6 +223,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [browserling](https://browserling.com/)
 * [DalekJS](http://dalekjs.com/)
 * [testling-ci](http://ci.testling.com/)
+* [crossbrowsertesting.com](http://crossbrowsertesting.com/)
 
 ---
 
@@ -674,6 +676,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [mocky.io](http://www.mocky.io/)
 * [FillText.com](http://www.filltext.com/)
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+* [faker.js](https://github.com/Marak/Faker.js)
 
 ##Image Mocking
 
@@ -690,12 +693,18 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [SpahQL](http://danski.github.io/spahql/)
 * [json-mask](https://github.com/nemtsov/json-mask)
 
+##JSON Validation Tools
+
+* [SCHEMA-INSPECTOR](http://atinux.github.io/schema-inspector/)
+
+
 ##Front-end DB's
 
 * [pouchdb](http://pouchdb.com/)
 * [Web Storage](http://www.w3.org/TR/webstorage/)
 * [Indexed Database API](http://www.w3.org/TR/IndexedDB/)
 * [lokiJS](http://lokijs.org/)
+* [underscore.db](https://github.com/typicode/underscore.db)
 
 
 ##Catalog/Collection of JavaScript Libs and Tools

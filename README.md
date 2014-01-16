@@ -26,6 +26,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [nodefront](http://karthikv.github.com/nodefront/)
 * [AUTOMATON](http://indigounited.com/automaton/)
 * [volo](http://volojs.org/)
+* [roots](http://roots.cx/)
 
 ---
 

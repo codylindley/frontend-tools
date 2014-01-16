@@ -9,6 +9,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######Workflow/Builds/Assemblers
 
+* [bud](http://github.com/azer/bud)
 * [lumbar](http://walmartlabs.github.io/lumbar/)
 * [brunch](http://brunch.io/)
 * [grunt](http://gruntjs.com/)

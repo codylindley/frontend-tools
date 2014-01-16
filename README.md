@@ -296,6 +296,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [jshint](http://www.jshint.com/)
 * [JSLint Error Explanations](http://jslinterrors.com/)
 * [jscomplexity](http://jscomplexity.org/)
+* [node-jscs](https://github.com/mdevils/node-jscs/)
 
 ---
 

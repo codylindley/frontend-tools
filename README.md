@@ -144,7 +144,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Module/Script Loaders ([Javascript Loaders Comparison](https://spreadsheets.google.com/spreadsheet/lv?key=0Aqln2akPWiMIdERkY3J2OXdOUVJDTkNSQ2ZsV3hoWVE&f=true&noheader=true&gid=2))
+######Module/Script Dependency Loaders ([Javascript Loaders Comparison](https://spreadsheets.google.com/spreadsheet/lv?key=0Aqln2akPWiMIdERkY3J2OXdOUVJDTkNSQ2ZsV3hoWVE&f=true&noheader=true&gid=2))
 * [require.js](http://requirejs.org/)
 	* [almond](https://github.com/jrburke/almond)
 * [cajon](https://github.com/requirejs/cajon)

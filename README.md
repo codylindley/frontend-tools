@@ -17,7 +17,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [yeoman](http://yeoman.io/)
 	* [Takeoff](http://tsvensen.github.io/Takeoff/)
 * [gulpjs](http://gulpjs.com/)
-* [mimosa](http://mimosa.io/) 
+* [mimosa](http://mimosa.io/)
 * [codeKit](http://incident57.com/codekit/)
 * [liveReload](http://livereload.com/)
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
@@ -27,6 +27,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [AUTOMATON](http://indigounited.com/automaton/)
 * [volo](http://volojs.org/)
 * [roots](http://roots.cx/)
+* [middleman](http://middlemanapp.com/)
 
 ---
 
@@ -45,7 +46,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php) or [Front-end CSS frameworks](http://usablica.github.com/front-end-frameworks/compare.html)) 
+######CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php) or [Front-end CSS frameworks](http://usablica.github.com/front-end-frameworks/compare.html))
 
 * [foundation](http://foundation.zurb.com/)
 * [bootstrap](http://twitter.github.com/bootstrap/)
@@ -91,7 +92,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [bean](https://github.com/fat/bean)
 * [rye](http://ryejs.com/)
 * [dom](https://github.com/component/dom)
-	
+
 ---
 
 ######JS Helpers
@@ -553,7 +554,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [es6-shim](https://github.com/paulmillr/es6-shim)
 * [ECMA-262 6th Edition/Draft](http://people.mozilla.org/~jorendorff/es6-draft.html)
 * [ECMAScript Support Matrix](http://pointedears.de/scripts/test/es-matrix/)
- 
+
 ---
 
 ######JavaScript Style/Conventions Guides

@@ -37,6 +37,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [ender](http://ender.jit.su/)
 * [jam](http://jamjs.org/)
 * [volo](http://volojs.org/)
+* [jspm.io](http://jspm.io/)
 
 ---
 

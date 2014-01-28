@@ -63,7 +63,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Flat UI Kit](http://designmodo.github.io/Flat-UI/)
 * [workless](http://workless.ikreativ.com/)
 * [99lime](http://www.99lime.com/)
-* [ink] (http://ink.sapo.pt/)
+* [ink](http://ink.sapo.pt/)
 * [Semantic UI](http://semantic-ui.com/)
 * [uikit](http://www.getuikit.com)
 
@@ -140,6 +140,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ---
 
 ######CSS Helpers
+* [typecsset](https://github.com/csswizardry/typecsset)
 * [-prefix-free](http://leaverou.github.io/prefixfree/)
 * [CSScomb](http://csscomb.com)
 * [Autoprefixer](https://github.com/ai/autoprefixer)

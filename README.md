@@ -692,6 +692,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 * [placekitten](http://placekitten.com/)
 * [PLACEHOLD.IT](http://placehold.it/)
+* [hhhhold.com](http://hhhhold.com/)
 
 ##JSON Query Tools
 

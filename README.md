@@ -67,6 +67,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [ink](http://ink.sapo.pt/)
 * [Semantic UI](http://semantic-ui.com/)
 * [uikit](http://www.getuikit.com)
+* [cascade-framework](http://www.cascade-framework.com/)
+* [minfwk](http://minfwk.com/)
 
 ---
 

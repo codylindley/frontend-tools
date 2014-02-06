@@ -123,6 +123,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [XRegExp](http://xregexp.com/)
 * [duckyjs](http://duckyjs.com/)
 * [mathjs](http://mathjs.org/)
+* [spectra.js](http://aakpat6.github.io/spectra/)
 
 ---
 

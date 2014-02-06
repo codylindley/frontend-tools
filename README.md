@@ -690,6 +690,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [FillText.com](http://www.filltext.com/)
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 * [faker.js](https://github.com/Marak/Faker.js)
+* [json-generator](http://www.json-generator.com)
 
 ##Image Mocking
 

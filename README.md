@@ -707,6 +707,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [json-query](https://github.com/mmckegg/json-query)
 * [SpahQL](http://danski.github.io/spahql/)
 * [json-mask](https://github.com/nemtsov/json-mask)
+* [objeq](https://github.com/agilosoftware/objeq)
 
 ##JSON Validation Tools
 

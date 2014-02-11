@@ -209,6 +209,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [alloyui](http://alloyui.com/)
 * [JavaScript (from sync fusion)](http://www.syncfusion.com/products/javascript)
 * [jQWidgets](http://www.jqwidgets.com/)
+* [formstone](http://formstone.it/)
 
 ---
 

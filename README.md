@@ -534,6 +534,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Starbucks Style Guide](http://www.starbucks.com/static/reference/styleguide/)
 * [Github CSS styleguide](https://github.com/styleguide/css)
 * [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines)
+* [yelp styleguide](http://www.yelp.com/styleguide)
 
 ---
 

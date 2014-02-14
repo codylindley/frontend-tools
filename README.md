@@ -169,6 +169,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [LazyJS](http://bevacqua.github.io/lazyjs/)
 * [jspm.io](http://jspm.io/)
 * [lazy.js](https://github.com/mercadolibre/lazy.js)
+* [webpack](https://github.com/webpack/webpack)
 
 ---
 

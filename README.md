@@ -614,6 +614,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######JS focused editors
 * [jsfiddle](http://jsfiddle.net/)
 * [jsbin](http://jsbin.com/)
+* [es6fiddle](es6fiddle.net)
 
 ######Regular Expression editors
 * [Scriptular](http://scriptular.com/)

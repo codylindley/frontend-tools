@@ -377,7 +377,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Routie](http://projects.jga.me/routie/)
 * [director](https://github.com/flatiron/director)
 * [Finch.js](http://stoodder.github.io/finchjs/)
-
+* [page.js](http://visionmedia.github.io/page.js/)
 
 ---
 

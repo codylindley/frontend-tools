@@ -682,6 +682,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [stormpath.com](http://stormpath.com/)
 * [dreamfactory](https://www.dreamfactory.com/)
 * [userapp.i](https://www.userapp.io/)
+* [goinstant](https://goinstant.com/)
 
 ##API tools
 

@@ -101,6 +101,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######JS Helpers
 * [lo-dash](http://lodash.com/)
+* [fn.js](http://eliperelman.com/fn.js/)
 * [lazy.js](http://danieltao.com/lazy.js/)
 * [string.js](http://stringjs.com/)
 * [boiler.js](http://www.boilerjs.com/)

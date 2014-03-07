@@ -654,6 +654,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ##Browser Security
 
 * [Browser Security Handbook](http://code.google.com/p/browsersec/wiki/Main)
+* [DOMPurify](https://github.com/cure53/DOMPurify)
 
 ##Browser Hacks
 

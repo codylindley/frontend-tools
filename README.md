@@ -400,6 +400,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [lure.js](http://tylerbuchea.com/projects/lure/#/)
 * [riot.js](https://github.com/moot/riotjs/)
 * [vue.js](http://vuejs.org/)
+* [mithril](http://lhorie.github.io/mithril/)
 
 ---
 

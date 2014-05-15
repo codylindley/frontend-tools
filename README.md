@@ -247,6 +247,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [mocha](http://visionmedia.github.com/mocha/)
 * [qunit](http://qunitjs.com/)
 * [jasmine](http://pivotal.github.com/jasmine/)
+* [jest](http://facebook.github.io/jest/)
 
 ---
 

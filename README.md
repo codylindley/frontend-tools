@@ -189,6 +189,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [underscore](http://underscorejs.org/#template)
 * [mold](https://github.com/idottv/Mold)
 * [nunjucks](http://jlongster.github.io/nunjucks/)
+* [Swig](http://paularmstrong.github.io/swig/)
 
 ---
 
@@ -756,42 +757,3 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ##Static Site Generators
 
 * [http://staticsitegenerators.net/](http://staticsitegenerators.net/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

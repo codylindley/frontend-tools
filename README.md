@@ -29,6 +29,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [volo](http://volojs.org/)
 * [roots](http://roots.cx/)
 * [middleman](http://middlemanapp.com/)
+* [fis](https://github.com/fex-team/fis)
+	* [fis-plus](https://github.com/fex-team/fis-plus)
 
 ---
 

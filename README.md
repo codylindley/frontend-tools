@@ -252,6 +252,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [qunit](http://qunitjs.com/)
 * [jasmine](http://pivotal.github.com/jasmine/)
 * [jest](http://facebook.github.io/jest/)
+* [jstest](http://jstest.jcoglan.com/)
 
 ---
 

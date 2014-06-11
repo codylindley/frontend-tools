@@ -243,7 +243,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [testling-ci](http://ci.testling.com/)
 * [crossbrowsertesting.com](http://crossbrowsertesting.com/)
 * [nightwatch.js](http://nightwatchjs.org/)
-
+* [Protractor](https://github.com/angular/protractor)
 ---
 
 ######Tests Runners

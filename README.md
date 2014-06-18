@@ -191,6 +191,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [mold](https://github.com/idottv/Mold)
 * [nunjucks](http://jlongster.github.io/nunjucks/)
 * [Swig](http://paularmstrong.github.io/swig/)
+* [jtmpl](http://jtmpl.com/)
 
 ---
 

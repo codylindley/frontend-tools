@@ -72,6 +72,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [cascade-framework](http://www.cascade-framework.com/)
 * [minfwk](http://minfwk.com/)
 * [layers](http://eiskis.net/layers/)
+
 ---
 
 ######HTML Base/Boilerplate
@@ -80,6 +81,13 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Rock Hammer](http://stuffandnonsense.co.uk/projects/rock-hammer/)
 * [html5bones](http://html5bones.com/)
 * [dCodes](http://www.dcodes.net/2/docs/index.html)
+
+---
+
+######Frontend HTML/CSS/JS Base/Boilerplate
+
+* [Headstart](http://www.headstart.io/)
+* [google Web Starter Kit](https://developers.google.com/web/starter-kit/)
 
 ---
 
@@ -616,6 +624,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Best Practices for Speeding Up Your Web Site](http://developer.yahoo.com/performance/rules.html)
 * [High Performance Web Sites - 14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/)
 * [Even Faster Web Sites](http://stevesouders.com/efws/)
+* [google web fundamentals](https://developers.google.com/web/fundamentals/)
 
 
 ##Online REPL's/editors/IDE's

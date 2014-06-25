@@ -757,7 +757,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Indexed Database API](http://www.w3.org/TR/IndexedDB/)
 * [lokiJS](http://lokijs.org/)
 * [underscore.db](https://github.com/typicode/underscore.db)
-
+* [Based JS](https://github.com/TremayneChrist/Based)
 
 ##Catalog/Collection of JavaScript Libs and Tools
 

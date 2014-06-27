@@ -657,6 +657,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [cssdeck](http://cssdeck.com/)
 * [codepen](http://codepen.io/)
 * [liveweave](http://liveweave.com/)
+* [codemagic.gr](http://codemagic.gr/)
 
 ######Execute/Test live code
 * [runnable](http://runnable.com/)

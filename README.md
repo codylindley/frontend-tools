@@ -728,6 +728,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [faker.js](https://github.com/Marak/Faker.js)
 * [json-generator](http://www.json-generator.com)
 * [caddis](https://github.com/bustardcelly/caddis)
+* [dyson](https://github.com/webpro/dyson)
+* [json-server](https://github.com/typicode/json-server)
 
 ##Image Mocking
 

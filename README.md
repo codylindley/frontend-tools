@@ -296,6 +296,11 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
+######i18n tools
+* [l10ns](http://l10ns.org)
+
+---
+
 ######JS Performance Testing
 
 * [benchmark.js](http://benchmarkjs.com/)

@@ -316,7 +316,8 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Auto Documentation Tools ([THE Style Guide GUIDE](http://vinspee.me/style-guide-guide/))
+######CSS Auto Documentation Tools 
+* [THE Style Guide GUIDE](http://vinspee.me/style-guide-guide/)
 * [kss](https://github.com/kneath/kss)
 * [styledocco/](http://jacobrask.github.com/styledocco/)
 

@@ -504,6 +504,9 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [webGL](https://developer.mozilla.org/en-US/docs/WebGL)
 	* [three.js](http://mrdoob.github.com/three.js/)
 	* [The X Toolkit](https://github.com/xtk/X#readme)
+	 
+######HTML Helpers & Tools
+* [Emmet](http://emmet.io/)
 
 ---
 

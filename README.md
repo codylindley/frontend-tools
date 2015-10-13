@@ -5,7 +5,7 @@
 ***
 
 ## THIS IS DEPREICATED CONTENT
-# Check out: https://www.gitbook.com/book/frontendmasters/front-end-handbook/details
+# This content has evolved into a book called "Front-end Handbook: https://www.gitbook.com/book/frontendmasters/front-end-handbook/details
 
 ***
 

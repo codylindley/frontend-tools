@@ -1,3 +1,23 @@
+
+
+
+
+***
+
+## THIS IS DEPREICATED CONTENT
+# Check out: https://www.gitbook.com/book/frontendmasters/front-end-handbook/details
+
+***
+
+
+
+
+
+
+
+
+
+
 #Landscaping With Frontend Development Tools
 
 

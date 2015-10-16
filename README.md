@@ -50,6 +50,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [roots](http://roots.cx/)
 * [middleman](http://middlemanapp.com/)
 * [fb-flo](http://facebook.github.io/fb-flo/)
+* [galen framework](http://galenframework.com)
 
 ---
 

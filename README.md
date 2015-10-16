@@ -565,6 +565,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [The Shapes of Css](http://coderwall.com/p/xrxaxa)
 * [CSS matic](http://www.cssmatic.com/)
 * [extractcss.com](http://extractcss.com/)
+* [Fibonacci, Flexbox Composer](http://maxsteenbergen.com/fibonacci/)
 
 ---
 

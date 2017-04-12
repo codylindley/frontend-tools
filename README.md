@@ -92,6 +92,10 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [cascade-framework](http://www.cascade-framework.com/)
 * [minfwk](http://minfwk.com/)
 * [layers](http://eiskis.net/layers/)
+* [Animate.css](https://daneden.github.io/animate.css/)
+* [Bootstrap-Material-Design](http://fezvrasta.github.io/bootstrap-material-design/)
+* [Materialize](http://materializecss.com/)
+* [Flexible Grid System](http://flexible.gs/)
 
 ---
 

@@ -18,16 +18,16 @@
 
 
 
-#Landscaping With Frontend Development Tools
+# Landscaping With Frontend Development Tools
 
 
 An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i.e. does not include tablet or phone yet) web development
 
 
-##Coding Tools
+## Coding Tools
 
 
-######Workflow/Builds/Assemblers/Task-runners/Dev Opts
+###### Workflow/Builds/Assemblers/Task-runners/Dev Opts
 
 * [bud](http://github.com/azer/bud)
 * [lumbar](http://walmartlabs.github.io/lumbar/)
@@ -53,7 +53,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Browser Package Managers (checkout: [Front-End Package Manager Comparison](https://github.com/wilmoore/frontend-packagers))
+###### Browser Package Managers (checkout: [Front-End Package Manager Comparison](https://github.com/wilmoore/frontend-packagers))
 
 * [bower](http://bower.io)
 * [component](https://github.com/component/component)
@@ -64,12 +64,12 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Base/Boilerplate
+###### CSS Base/Boilerplate
 * [normalize.css](http://necolas.github.com/normalize.css/)
 
 ---
 
-######CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php) or [Front-end CSS frameworks](http://usablica.github.com/front-end-frameworks/compare.html))
+###### CSS Frameworks ([Comparison](http://responsive.vermilion.com/compare.php) or [Front-end CSS frameworks](http://usablica.github.com/front-end-frameworks/compare.html))
 
 * [foundation](http://foundation.zurb.com/)
 * [bootstrap](http://twitter.github.com/bootstrap/)
@@ -95,7 +95,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######HTML Base/Boilerplate
+###### HTML Base/Boilerplate
 
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [Rock Hammer](http://stuffandnonsense.co.uk/projects/rock-hammer/)
@@ -104,14 +104,14 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Frontend HTML/CSS/JS Base/Boilerplate
+###### Frontend HTML/CSS/JS Base/Boilerplate
 
 * [Headstart](http://www.headstart.io/)
 * [google Web Starter Kit](https://developers.google.com/web/starter-kit/)
 
 ---
 
-######DOM Scripting (FYI dojo, yui, ext, qooxdoo all have DOM tools)
+###### DOM Scripting (FYI dojo, yui, ext, qooxdoo all have DOM tools)
 * [jQuery](http://jquery.com/)
 	*  [jQuery++](http://jquerypp.com/)
 * [zepto](http://zeptojs.com/)
@@ -128,7 +128,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######JS Helpers
+###### JS Helpers
 * [lo-dash](http://lodash.com/)
 * [fn.js](http://eliperelman.com/fn.js/)
 * [lazy.js](http://danieltao.com/lazy.js/)
@@ -158,14 +158,14 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Keyboard Helpers
+###### Keyboard Helpers
 * [keys.js](https://github.com/bitwalker/keys.js)
 * [mousestrap](http://craig.is/killing/mice)
 * [Keypress](http://dmauro.github.io/Keypress/)
 
 ---
 
-######Event (mouse/touch/pointer) Helpers
+###### Event (mouse/touch/pointer) Helpers
 * [pointer.js](https://github.com/mozilla/pointer.js)
 * [thumbs.js](http://mwbrooks.github.io/thumbs.js/)
 * [Hammer.js](https://github.com/EightMedia/hammer.js)
@@ -174,7 +174,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Helpers
+###### CSS Helpers
 * [typecsset](https://github.com/csswizardry/typecsset)
 * [-prefix-free](http://leaverou.github.io/prefixfree/)
 * [CSScomb](http://csscomb.com)
@@ -182,7 +182,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Module/Script Dependency Loaders ([Javascript Loaders Comparison](https://spreadsheets.google.com/spreadsheet/lv?key=0Aqln2akPWiMIdERkY3J2OXdOUVJDTkNSQ2ZsV3hoWVE&f=true&noheader=true&gid=2))
+###### Module/Script Dependency Loaders ([Javascript Loaders Comparison](https://spreadsheets.google.com/spreadsheet/lv?key=0Aqln2akPWiMIdERkY3J2OXdOUVJDTkNSQ2ZsV3hoWVE&f=true&noheader=true&gid=2))
 * [require.js](http://requirejs.org/)
 	* [almond](https://github.com/jrburke/almond)
 * [cajon](https://github.com/requirejs/cajon)
@@ -205,7 +205,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Templates ([template chooser](http://garann.github.io/template-chooser))
+###### Templates ([template chooser](http://garann.github.io/template-chooser))
 * [handlebars](http://handlebarsjs.com/)
 * [pure](http://beebole.com/pure/)
 * [dust](http://akdubya.github.io/dustjs/)
@@ -224,7 +224,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######UI Widgets ([comparison](http://uiwidgets.t7interactive.com/))
+###### UI Widgets ([comparison](http://uiwidgets.t7interactive.com/))
 * [chico-ui](http://chico-ui.com.ar/)
 * [google closure](http://closure-library.googlecode.com/svn/trunk/closure/goog/demos/index.html)
 * [DHTMLX](http://dhtmlx.com/)
@@ -251,7 +251,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [zippy ui](http://zippyui.com/)
 ---
 
-######Testing Frameworks
+###### Testing Frameworks
 
 * [testem](https://github.com/airportyh/testem)
 * [Karma](http://karma-runner.github.io/0.8/index.html)
@@ -261,7 +261,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Browser Testing & Browser Automated Testing & Browser Screen Captures
+###### Browser Testing & Browser Automated Testing & Browser Screen Captures
 
 * [casperJS](http://casperjs.org/)
 * [Selenium](http://www.seleniumhq.org/)
@@ -277,7 +277,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Tests Runners
+###### Tests Runners
 
 * [mocha](http://visionmedia.github.com/mocha/)
 * [qunit](http://qunitjs.com/)
@@ -287,13 +287,13 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Test spies, stubs and mocks
+###### Test spies, stubs and mocks
 
 * [sinon.js](http://sinonjs.org/)
 
 ---
 
-######Code Coverage
+###### Code Coverage
 
 * [istanbul](http://gotwarlost.github.io/istanbul/)
 * [blanket.js](http://blanketjs.org/)
@@ -301,14 +301,14 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Code Complexity & Reports
+###### Code Complexity & Reports
 
 * [jscomplexity](http://jscomplexity.org/)
 * [plato](https://github.com/es-analysis/plato)
 
 ---
 
-######Assertion Libraries
+###### Assertion Libraries
 
 * [chai](http://chaijs.com/)
 * [should](https://github.com/visionmedia/should.js)
@@ -316,14 +316,14 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######JS Performance Testing
+###### JS Performance Testing
 
 * [benchmark.js](http://benchmarkjs.com/)
 * [jsPerf — JavaScript performance playground](http://jsperf.com/)
 
 ---
 
-######JS Auto Documentation Tools
+###### JS Auto Documentation Tools
 * [yuiDoc](http://yui.github.com/yuidoc/)
 * [docco](http://jashkenas.github.com/docco/)
 	* [docco-husky](https://github.com/mbrevoort/docco-husky)
@@ -336,13 +336,13 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Auto Documentation Tools ([THE Style Guide GUIDE](http://vinspee.me/style-guide-guide/))
+###### CSS Auto Documentation Tools ([THE Style Guide GUIDE](http://vinspee.me/style-guide-guide/))
 * [kss](https://github.com/kneath/kss)
 * [styledocco/](http://jacobrask.github.com/styledocco/)
 
 ---
 
-######JS Quality Validators
+###### JS Quality Validators
 * [jslint](http://www.jslint.com/)
 * [jshint](http://www.jshint.com/)
 * [JSLint Error Explanations](http://jslinterrors.com/)
@@ -352,32 +352,32 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Quality Validators
+###### CSS Quality Validators
 * [csslint](http://csslint.net/)
 * [recess](http://twitter.github.com/recess)
 
 ---
 
-######HTML Quality Validators
+###### HTML Quality Validators
 * [html-inspector](https://github.com/philipwalton/html-inspector)
 * [htmlHint](http://htmlhint.com/)
 
 ---
 
-######JS Optimizer/Minification/Compression Tools
+###### JS Optimizer/Minification/Compression Tools
 * [google closure compiler](https://developers.google.com/closure/compiler/)
 * [uglifyJS](https://github.com/mishoo/UglifyJS)
 * [Esprima](http://esprima.org/index.html)
 
 ---
 
-######CSS Optimizer/Minification/Compression Tools
+###### CSS Optimizer/Minification/Compression Tools
 * [ycssmin](https://github.com/yui/ycssmin)
 * [CSSO](http://css.github.io/csso/)
 
 ---
 
-######Languages Compiling to CSS
+###### Languages Compiling to CSS
 * [Sass](http://sass-lang.com/)
 	* [compass](http://compass-style.org)
 	* [inuit.css](https://github.com/csswizardry/inuit.css)
@@ -391,7 +391,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Absurd](http://krasimir.github.io/absurd/#client-side-tests)
 * [myth](http://www.myth.io/)
 
-######Languages Compiling to JS ([http://altjs.org/](http://altjs.org/))
+###### Languages Compiling to JS ([http://altjs.org/](http://altjs.org/))
 * [coffeeScript](http://coffeescript.org/)
 * [dart](http://www.dartlang.org/)
 * [roy](https://github.com/pufuwozu/roy)
@@ -400,7 +400,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Languages Compiling to HTML
+###### Languages Compiling to HTML
 * [jade](http://jade-lang.com/)
 * [haml](https://github.com/haml/haml)
 * [blade](https://github.com/bminer/node-blade)
@@ -409,7 +409,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Routers
+###### Routers
 
 * [crossroads.js](http://millermedeiros.github.io/crossroads.js/)
 * [davis.js](http://davisjs.com/)
@@ -420,7 +420,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Front End Application Structure (somewhat backend agnostic)
+###### Front End Application Structure (somewhat backend agnostic)
 * [backbone](http://backbonejs.org/)
 	* [marionette](http://marionettejs.com)
 	* [chaplin](http://chaplinjs.github.com/)
@@ -442,7 +442,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Front End Application Structure (with backend opinions)
+###### Front End Application Structure (with backend opinions)
 * [derby](http://derbyjs.com/) (requires NodeJS)
 * [flatiron](http://flatironjs.org/) (requires NodeJS)
 * [batman.js](http://batmanjs.org/) (requires NodeJS)
@@ -451,29 +451,29 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Full Stack Application Structure/Frameworks
+###### Full Stack Application Structure/Frameworks
 * [wakanda](http://www.wakanda.org/)
 * [meteor](http://www.meteor.com/)
 
 ---
 
-######Frontend JavaScript Frameworks (aka Kitchen Sink Solutions, tools below provide a mixture of the things above)
+###### Frontend JavaScript Frameworks (aka Kitchen Sink Solutions, tools below provide a mixture of the things above)
 * [YUI3](http://yuilibrary.com/projects/yui3/)
 * [dojo](http://dojotoolkit.org/)
 * [extJS](http://www.sencha.com/products/extjs/)
 * [qooxdoo](http://qooxdoo.org/)
 * [google closure](https://developers.google.com/closure/)
 
-######Front End Application monitoring
+###### Front End Application monitoring
 
 * [Caliper](http://caliper.io)
 
 ---
 
-##Reference/Guide/Polyfill/Generator Tools
+## Reference/Guide/Polyfill/Generator Tools
 
 
-######Browser X Supports X
+###### Browser X Supports X
 * [http://caniuse.com/](http://caniuse.com/)
 * [http://html5please.com/](http://html5please.com/)
 * [http://html5readiness.com/](http://html5readiness.com/)
@@ -492,7 +492,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######HTML Language References & Polyfills
+###### HTML Language References & Polyfills
 * [HTML5 A technical specification for Web developers](http://developers.whatwg.org/)
 * [HTML Living Standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/)
 * [HTML5 A vocabulary and associated APIs for HTML and XHTML](http://www.w3.org/TR/html5/)
@@ -504,7 +504,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######HTML5 & Friends Specs/Ref & Polyfills
+###### HTML5 & Friends Specs/Ref & Polyfills
 * [webbrowsercompatibility.com](http://www.webbrowsercompatibility.com/)
 * [HTML5 & Friends, from Mozilla](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
 * [html5rocks](http://www.html5rocks.com/en/)
@@ -527,7 +527,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######DOM Specs/Ref & Polyfills
+###### DOM Specs/Ref & Polyfills
 * [DOM Living Standard](http://dom.spec.whatwg.org/)
 * [DOM Parsing and Serialization Living Standard](http://domparsing.spec.whatwg.org/)
 * [DOM4](http://www.w3.org/TR/dom/)
@@ -538,7 +538,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Specs/Ref & Polyfills
+###### CSS Specs/Ref & Polyfills
 * [CSS, from Mozilla](https://developer.mozilla.org/en-US/docs/CSS)
 * [CSS SPEC­I­FI­CA­TIONS, from W3C](http://www.w3.org/Style/CSS/current-work)
 * [http://cssvalues.com/](http://cssvalues.com/)
@@ -551,7 +551,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Generators
+###### CSS Generators
 * [patternify](http://www.patternify.com/)
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 * [patternizer](http://patternizer.com/)
@@ -568,7 +568,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######CSS Style/Conventions Guides
+###### CSS Style/Conventions Guides
 * [kss](https://github.com/kneath/kss#readme)
 * [SMACSS](http://smacss.com/)
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#Declaration_order)
@@ -582,7 +582,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######JavaScript ES5 Specs/Ref & Polyfills
+###### JavaScript ES5 Specs/Ref & Polyfills
 * [ECMA-262-5 in detail](http://dmitrysoshnikov.com/ecmascript/es5-chapter-0-introduction/)
 * [ECMAScript Language Specification](http://ecma-international.org/ecma-262/5.1/)
 * [Annotated ECMAScript 5.1](http://es5.github.com/)
@@ -598,7 +598,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######JavaScript ES6 Specs/Ref & Polyfills
+###### JavaScript ES6 Specs/Ref & Polyfills
 * [ES6 what can be shimmed and what not](https://gist.github.com/1665192)
 * [ECMAScript 6 compatibility table](http://kangax.github.com/es5-compat-table/es6/)
 * [Draft Specification for ES.next (Ecma-262 Edition 6)](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts)
@@ -608,7 +608,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######JavaScript Style/Conventions Guides
+###### JavaScript Style/Conventions Guides
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [Felix's Node.js Style Guide](http://nodeguide.com/style.html)
 * [idiomatic.js](https://github.com/rwldrn/idiomatic.js)
@@ -619,15 +619,15 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######General Front-end Practices/Conventions
+###### General Front-end Practices/Conventions
 * [isobar](http://isobar-idev.github.com/code-standards/)
 * [Being A Web Developer](http://www.yellowshoe.com.au/standards/)
 * [Front End Dev Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/)
 * [HTML and CSS code guide](https://github.com/mdo/code-guide)
 
-##Performance
+## Performance
 
-######Tools
+###### Tools
 
 * [Charles](http://www.charlesproxy.com/)
 * [webpagetest](http://www.webpagetest.org/)
@@ -638,7 +638,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [DOM Monster](http://mir.aculo.us/dom-monster/)
 * [ImageOptim](http://imageoptim.com/)
 
-######Rules/Practices
+###### Rules/Practices
 
 * [Web Performance Best Practices](https://developers.google.com/speed/docs/best-practices/rules_intro)
 * [Best Practices for Speeding Up Your Web Site](http://developer.yahoo.com/performance/rules.html)
@@ -647,30 +647,30 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [google web fundamentals](https://developers.google.com/web/fundamentals/)
 
 
-##Online REPL's/editors/IDE's
+## Online REPL's/editors/IDE's
 
-######JS REPL
+###### JS REPL
 * [repl.it](http://repl.it/)
 * [jsconsole.com](http://jsconsole.com/)
 * [codeboot.org](http://codeboot.org/)
 * [continuum](http://benvie.github.com/continuum/)
 
-######JS focused editors
+###### JS focused editors
 * [jsfiddle](http://jsfiddle.net/)
 * [jsbin](http://jsbin.com/)
 * [es6fiddle](es6fiddle.net)
 
-######Regular Expression editors
+###### Regular Expression editors
 * [Scriptular](http://scriptular.com/)
 * [regexr](http://gskinner.com/RegExr/)
 * [refiddle](http://refiddle.com/)
 * [RegexPlanet](http://www.regexplanet.com/)
 
-######HTML/CSS editors
+###### HTML/CSS editors
 * [dabblet](http://dabblet.com/)
 * [cssdesk](http://cssdesk.com/)
 
-######HTML/CSS/JS editors
+###### HTML/CSS/JS editors
 * [tinker.io](https://tinker.io/)
 * [tinkerbin](http://tinkerbin.com/)
 * [Plunker](https://github.com/filearts/plunker)
@@ -679,38 +679,38 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [liveweave](http://liveweave.com/)
 * [codemagic.gr](http://codemagic.gr/)
 
-######Execute/Test live code
+###### Execute/Test live code
 * [runnable](http://runnable.com/)
 
-######Browser IDE's
+###### Browser IDE's
 * [koding](https://koding.com/)
 * [cloud9 IDE](https://c9.io/)
 * [action.io](https://www.action.io)
 
-######JSON editors
+###### JSON editors
 * [jsoneditoronline.org](http://jsoneditoronline.org/)
 * [JSON Tinker](http://json.bubblemix.net/)
 * [JSONmat](http://jsonmate.com/)
 
-##Browser Security
+## Browser Security
 
 * [Browser Security Handbook](http://code.google.com/p/browsersec/wiki/Main)
 * [DOMPurify](https://github.com/cure53/DOMPurify)
 * [html5sec.org](https://html5sec.org/)
 * [js-xss](https://github.com/leizongmin/js-xss)
 
-##Browser Hacks
+## Browser Hacks
 
 * [browserhacks.com](http://www.browserhacks.com/)
 
 
-##API first, CMS Service
+## API first, CMS Service
 
 * [contentful](https://www.contentful.com)
 * [prismic.io](https://prismic.io)
 
 
-##Backend services for front-end developers
+## Backend services for front-end developers
 
 * [firebase](https://www.firebase.com/index.html)
 * [pusher](http://pusher.com/)
@@ -731,7 +731,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [goinstant](https://goinstant.com/)
 * [myjson.com](http://myjson.com/)
 
-##API tools
+## API tools
 
 * [apiary](http://apiary.io/)
 * [api engine](https://apiengine.io/)
@@ -740,7 +740,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [apidocjs](http://apidocjs.com/)
 * [apiblueprint](http://apiblueprint.org/)
 
-##API Mocking
+## API Mocking
 
 * [mocky.io](http://www.mocky.io/)
 * [FillText.com](http://www.filltext.com/)
@@ -751,13 +751,13 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [dyson](https://github.com/webpro/dyson)
 * [json-server](https://github.com/typicode/json-server)
 
-##Image Mocking
+## Image Mocking
 
 * [placekitten](http://placekitten.com/)
 * [PLACEHOLD.IT](http://placehold.it/)
 * [hhhhold.com](http://hhhhold.com/)
 
-##JSON Query Tools
+## JSON Query Tools
 
 * [TaffyDB](http://www.taffydb.com/)
 * [linq.js](http://linqjs.codeplex.com/)
@@ -768,12 +768,12 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [json-mask](https://github.com/nemtsov/json-mask)
 * [objeq](https://github.com/agilosoftware/objeq)
 
-##JSON Validation Tools
+## JSON Validation Tools
 
 * [SCHEMA-INSPECTOR](http://atinux.github.io/schema-inspector/)
 
 
-##Front-end DB's
+## Front-end DB's
 
 * [pouchdb](http://pouchdb.com/)
 * [Web Storage](http://www.w3.org/TR/webstorage/)
@@ -782,7 +782,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [underscore.db](https://github.com/typicode/underscore.db)
 * [Based JS](https://github.com/TremayneChrist/Based)
 
-##Catalog/Collection of JavaScript Libs and Tools
+## Catalog/Collection of JavaScript Libs and Tools
 
 * [jster](http://jster.net/)
 * [thetoolbox.cc](http://thetoolbox.cc/)
@@ -791,6 +791,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [JSDB.IO](http://www.jsdb.io/?sort=trending)
 
 
-##Static Site Generators
+## Static Site Generators
 
 * [http://staticsitegenerators.net/](http://staticsitegenerators.net/)

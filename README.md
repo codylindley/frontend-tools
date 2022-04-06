@@ -268,6 +268,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [phantomJS](http://phantomjs.org/)
 * [saucelabs](https://saucelabs.com)
 * [browserstack](http://www.browserstack.com/)
+* [LambdaTest](https://www.lambdatest.com/)
 * [browserling](https://browserling.com/)
 * [DalekJS](http://dalekjs.com/)
 * [testling-ci](http://ci.testling.com/)

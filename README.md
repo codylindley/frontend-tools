@@ -691,6 +691,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [jsoneditoronline.org](http://jsoneditoronline.org/)
 * [JSON Tinker](http://json.bubblemix.net/)
 * [JSONmat](http://jsonmate.com/)
+* [Translate json to typescript] (http://json2ts.com/) 
 
 ##Browser Security
 

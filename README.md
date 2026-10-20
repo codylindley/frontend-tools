@@ -663,24 +663,22 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######Regular Expression editors
 * [Scriptular](http://scriptular.com/)
 * [regexr](http://gskinner.com/RegExr/)
-* [refiddle](http://refiddle.com/)
+* [Coddy Regex Tester](https://coddy.tech/tools/regex-tester)
 * [RegexPlanet](http://www.regexplanet.com/)
 
 ######HTML/CSS editors
+* [Coddy HTML Playground](https://coddy.tech/playground/html)
 * [dabblet](http://dabblet.com/)
-* [cssdesk](http://cssdesk.com/)
 
 ######HTML/CSS/JS editors
 * [tinker.io](https://tinker.io/)
-* [tinkerbin](http://tinkerbin.com/)
 * [Plunker](https://github.com/filearts/plunker)
-* [cssdeck](http://cssdeck.com/)
 * [codepen](http://codepen.io/)
 * [liveweave](http://liveweave.com/)
 * [codemagic.gr](http://codemagic.gr/)
 
 ######Execute/Test live code
-* [runnable](http://runnable.com/)
+* [Coddy Playground](https://coddy.tech/playground)
 
 ######Browser IDE's
 * [koding](https://koding.com/)
